@@ -1,4 +1,4 @@
-# (Title of your Project)
+# Analysis of Hawaii Government Websites
 ## Isaac, DH 110: UX + UI Design
 
 ### assignment01: Heuristic Evaluation of Hawaii

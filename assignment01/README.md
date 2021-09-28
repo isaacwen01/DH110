@@ -7,4 +7,6 @@
 
 Purpose of the assignment - 3-5 sentences
 
-https://www.yourclassical.org/ 
+https://www.yourclassical.org/
+
+![Website of Hawaii's DMV](HawaiiDMVWebsite.png)

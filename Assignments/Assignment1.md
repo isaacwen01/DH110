@@ -151,10 +151,10 @@ Overall, the website is clean and straightforward. The navigation bar is appropr
 > *Recommendation: Add appropriate icons to help the user recognize each of the main categories more easily.*  
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* **Bad**: When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. If most dates are already booked at a certain location, the user will have to toggle through each date to see which times are available. This is incredibly inconvenient and time-consuming for the user. (2)
-> *Recommendation: Implement an option or button that will take the user to the next available date/time if all of the listed dates on the current calendar page are booked.*  
+* **Bad**: Bad: 404 Error page simply tells the user that the original page might have been taken down and does not offer anything else to help the user. (1)
+> *Recommendation: Add an option on the 404 Error page to report the err to customer service or provide possible general solutions to the problem.*  
 
 #### 10. Help and Documentation
-* **Bad**: There is no FAQ section for the entire site nor a FAQ section specific to the DMV. If the user searches FAQ, only pdf files with hyperspecific topics like “FAQ-InnovationGrants-FY21-22” show up, which would not be helpful to the average user trying to make an appointment at the DMV. (3)
-> *Recommendation: Introduce two FAQ sections––one for the entire website attached in the footer and one specific to the Vehicle Registration & Licensing Division, accessible through the sidebar.* 
+* **Bad**: There is no FAQ section for the entire site. If the user searches “help” using the search bar, only articles mentioning the word “help” and mental health resources show up. (3)
+> *Recommendation: Include a FAQ section and/or a help icon in the footer for easy access.* 
 

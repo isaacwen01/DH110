@@ -39,6 +39,8 @@ Ratings are displayed in parentheses after each usability issue.
 
 ## Website 1: [Vehicle Registration & Licensing](https://www.hawaiicounty.gov/departments/finance/vehicle-registration-licensing)
 
+<img width="1440" alt="HawaiiDMVWebsite" src="https://user-images.githubusercontent.com/82692970/135472147-505d26cb-1db6-456b-8cf1-d6cf32ad37f0.png">
+
 ### About
 This website belongs to the County of Hawaii and offers tax services, employment information, tax maps, permits, etc. However, I’ll mainly be examining the Vehicle Registration and Licensing Division. The webpage covers information about VRL Office Appointments, Road Test Appointments, COVID-19 FAQs, and many other forms and documents that are crucial for vehicle registration and licensing.
 

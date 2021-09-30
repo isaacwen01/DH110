@@ -64,7 +64,7 @@ Overall, I’d say the website is very informative and detailed. It’s updated 
 #### 4. Consistency and Standards
 * **Good**: Hyperlinks are made distinct from the rest of the text through coloring and underline. Important phrases are bolded in color.
 * **Bad**: People usually look for buttons to make appointments, or some other type of distinction so they can recognize the call to action. To make an appointment, the user has to scroll through the page to find a link titled “appointment” among the many other hyperlinks underlined/colored in red. This does not match industry conventions. (3)
-* > *Recommendation: Create a separate button for making appointments.*
+> *Recommendation: Create a separate button for making appointments.*
 *  **Bad**: The forms for making appointments for the VRL office and Road Test look drastically different [see Visibility of System Status for direct comparison]. (2)
 > *Recommendation: Redesign the form for booking a road test to emulate the style of the page for making VRL office appointments.*  
 
@@ -74,24 +74,28 @@ Overall, I’d say the website is very informative and detailed. It’s updated 
 > *Recommendation: Offer an example for formatting the permit/certificate number as well as some secondary checking system that catches inputs that are not of a valid format.*  
 
 #### 6. Recognition Rather Than Recall
-* **Good**:
-* **Bad**:
+* **Good**: When the user scrolls down from the landing page and clicks on the magnifying glass icon, there are helpful filters like “jobs” and “vehicle registration”. 
+* **Bad**: When using the search function, no suggestions show up under the search bar. This makes it difficult for the user who may not remember the exact name of the type of permit they’re trying to apply for or appointment they’re trying to make. Furthermore, there is also a serious inconsistency where the filters only show up when you click the magnifying glass icon (after scrolling down) and not when you click into the search bar. (2)
+> *Recommendation: Show suggestions and results as the user is typing to help the user recognize terms that they want to search but perhaps do not know the exact name of.*  
 
 #### 7. Flexibility and Efficiency of Use
-* **Good**:
-* **Bad**:
+* **Bad**: The search filters are rather broad and aren’t super useful for users who are more familiar with the DMV or know exactly what information they need from the site. (1)
+> *Recommendation: Incorporate more specific search filters or provide search suggestions that directly take the user to the desired page without hitting the search icon/enter key.*  
 
 #### 8. Aesthetic and Minimalist Design
-* **Good**:
-* **Bad**:
+* **Good**: The site has buttons that allow the user to customize the font size of each page they visit. This is great accessible design, especially for users who have impaired vision.
+* **Bad**: The website lacks a clear layout. Each page is understandably information-dense, but the website does nothing to break up the long paragraphs of text, making the entire page resemble some sort of essay. (3)
+> *Recommendation: Create more distinct separations between sections of the page to help with readability. Each page can also feature multiple layouts. For instance, a section could have text on the left side and a visual on the right side. Certain sections like the “Safety Requirements” could be translated into an infographic to reduce the user’s cognitive load. Longer paragraphs can also be rewritten into bullet format for easier reading.* 
+* **Bad**: The lack of buttons makes each page’s call to action unclear, especially because there are multiple hyperlinks. A user trying to book an appointment has to sift through all the links underlined in red before locating the correct one. (3)
+> *Recommendation: Add buttons in place of the most important links to indicate a clearer CTA as well as introduce some sort of hierarchy to the page.*  
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* **Good**:
-* **Bad**:
+* **Good**: When booking an appointment, the system notifies the user when an invalid phone number or email is entered. 
+* **Bad**: When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. If most dates are already booked at a certain location, the user will have to toggle through each date to see which times are available. This is incredibly inconvenient and time-consuming for the user. (2)
+> *Recommendation: Implement an option or button that will take the user to the next available date/time if all of the listed dates on the current calendar page are booked.*  
 
 #### 10. Help and Documentation
-* **Good**:
-* **Bad**:
-
+* **Bad**: There is no FAQ section for the entire site nor a FAQ section specific to the DMV. If the user searches FAQ, only pdf files with hyperspecific topics like “FAQ-InnovationGrants-FY21-22” show up, which would not be helpful to the average user trying to make an appointment at the DMV. (3)
+> *Recommendation: Introduce two FAQ sections––one for the entire website attached in the footer and one specific to the Vehicle Registration & Licensing Division, accessible through the sidebar.*  
 
 

@@ -71,7 +71,7 @@ Overall, I’d say the website is very informative and detailed. It’s updated 
 * **Bad**: People usually look for buttons to make appointments, or some other type of distinction so they can recognize the call to action. To make an appointment, the user has to scroll through the page to find a link titled “appointment” among the many other hyperlinks underlined/colored in red. This does not match industry conventions. (3)
 * <img width="948" alt="NoButtons" src="https://user-images.githubusercontent.com/82692970/135474937-fecab521-5555-4303-b5a9-2ca8088e147b.png">
 > *Recommendation: Create a separate button for making appointments.*
-*  **Bad**: The forms for making appointments for the VRL office and Road Test look drastically different [see Visibility of System Status for direct comparison]. (2)
+*  **Bad**: The forms for making appointments for the VRL office and Road Test look drastically different. (2)
 > *Recommendation: Redesign the form for booking a road test to emulate the style of the page for making VRL office appointments.*  
 
 #### 5. Error Prevention

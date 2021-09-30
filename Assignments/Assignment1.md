@@ -104,6 +104,8 @@ Overall, I’d say the website is very informative and detailed. It’s updated 
 
 ## Website 2: [Hawaii State Department of Health](https://health.hawaii.gov/)
 
+<img width="1440" alt="HawaiiHealth" src="https://user-images.githubusercontent.com/82692970/135472549-df097439-88bc-4bb2-b65e-58900661af57.png">
+
 ### About
 The Hawaii State Department of Health website covers the latest health-related news and guides users to important health resources relating to aging & disability programs, environmental health, mental illness, and more. Furthermore, the website is also linked to Hawaii’s COVID-19 portal and offers additional services like ordering birth and marriage certificates, marriage licenses, and health records.
 

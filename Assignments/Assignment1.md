@@ -99,3 +99,62 @@ Overall, I’d say the website is very informative and detailed. It’s updated 
 > *Recommendation: Introduce two FAQ sections––one for the entire website attached in the footer and one specific to the Vehicle Registration & Licensing Division, accessible through the sidebar.*  
 
 
+
+## Website 2: [Hawaii State Department of Health](https://health.hawaii.gov/)
+
+### About
+The Hawaii State Department of Health website covers the latest health-related news and guides users to important health resources relating to aging & disability programs, environmental health, mental illness, and more. Furthermore, the website is also linked to Hawaii’s COVID-19 portal and offers additional services like ordering birth and marriage certificates, marriage licenses, and health records.
+
+### Initial Overall Evaluation
+Overall, the website is clean and straightforward. The navigation bar is appropriately categorized into logical bins. From the submenu length to the layout of news articles, the website is uncluttered despite the vast amount of information it hosts. However, there are pretty noticeable consistency issues when you click the various links. Each form looks drastically different and consists of varying visual components that may potentially confuse a user completing multiple tasks. There are also some issues with interactivity, specifically with the hover effect, that makes the website less intuitive to use.
+
+#### 1. Visibility of System Status
+*  **Bad**: The navigation bar does not indicate which page the user is currently viewing. There is no visual signal to display where the page belongs, which may confuse the user when they are navigating back and forth between pages. (2)
+> *Recommendation: Add a visual signal, such as a colored underline or a colored background for the navigation bar item the current page belongs to.*
+*  **Bad**: When filling out forms such as the “Marriage/Civil Union License Application,” there is no progress bar to indicate how far into the application the user is. (1)
+> *Recommendation: Add a progress bar that fills up as the user moves along the application.*
+
+#### 2. Match Between System and the Real World
+* **Good**: The website employs user-friendly vocabulary to name the components of the navigation bar and buttons.
+*  **Bad**: Normally, if a navigation bar has an item with a submenu, directly clicking the item will lead the user to the first page on the submenu. However, clicking the navigation bar items that have submenus like “About DOH” and “News” does not do anything. (2)
+> *Recommendation: Link the items on the navigation bar to the first page of the submenu for easier access.*
+
+#### 3. User Control and Freedom
+* **Good**: The user can freely navigate through the site by clicking the backward or forward button in their web browser. 
+*  **Bad**: When filling out the Marriage License Application, there is no “previous” button that allows the user to go back and edit information. There are only the “save and continue” button and “cancel” button, with the latter completely erasing all filled-out cells on previous pages. (2)
+> *Recommendation: Change the two buttons to “Previous” on the left and “Next” on the right. Introduce a system of auto-saving to expedite the lengthy application progress and streamline the user journey.*
+
+#### 4. Consistency and Standards
+* **Good**: The news articles are formatted in accordance to  feels very familiar to the user.
+* **Bad**:  Not all pages of the site display the path the user took to that specific page. For example, the “Office of the Director” page includes “Home » Office of the Director” at the top of the page, but not the “Strategic Plan” page. (1)
+> *Recommendation: Make sure all pages include pathnames so the user can traverse pages effortlessly, even without the forward and backward buttons of their web browser.*
+
+#### 5. Error Prevention
+* **Good**: On the Marriage License Application, there are clear instructions regarding formatting the free response questions and dropdown selections.
+* **Bad**: On the WIC application form, there are no visual indications that inform the user of required fields that might prevent them from moving on if left unfilled. This lack of signaling may be annoying for the user, especially if they are trying to fill out the application quickly. However, because the user does not know which fields are mandatory to fill out, they would have to fill out all fields or selectively answer questions they believe are mandatory, but risk being stopped by the system (if a mandatory field is left unfilled). (2)
+> *Recommendation: Place a red asterisk next to the required fields so the user can immediately recognize which questions are the most important.*  
+
+#### 6. Recognition Rather Than Recall
+* **Good**:The navigation bar items and the various submenus are effective in aiding users to recognize specific health topics they are interested in.
+* **Bad**: The search bar does not have any search filters or dropdown suggestions, increasing the user’s cognitive load when they do not have a specific topic in mind. (2)
+> *Recommendation: Introduce search filters on the search results page that can help the user sort results based on categories. Have suggestions drop down from the search bar as the user types.*
+
+#### 7. Flexibility and Efficiency of Use
+* **Bad**: If the user already knows what program, resource, or topic they want to search, there is no shortcut to reach their desired destination. For instance, if they wanted to learn more about Medical Reserve Corps, they would have to click Health Topics > Emergency Preparedness & Response > Medical Reserve Corps. (1)
+> *Recommendation: Have more submenus for each item on the navigation bar so more prepared users can easily jump to the page they want to read. Alternatively, the search bar feature can also match the user’s input while they are typing to the closest page; by clicking the suggestion provided by the search function, the user would be able to directly enter their desired page.*  
+
+#### 8. Aesthetic and Minimalist Design
+* **Good**: Overall, the website is clean and easy to read. Hyperlinks are underlined in blue and there is enough spacing between longer reads to prevent the user from feeling overwhelmed. 
+* **Bad**: For news articles, the layout of the text is rather dry––everything is either in bullet or paragraph format with not much variation. (1)
+> *Recommendation: Add a cover photo for each article as well as other images to aid with comprehension.* 
+* **Bad**: There are a lot of links and pages nested within each other, especially on the Health Topics page. It may be easy for the user to lose track of where on the page they are or which specific link they are looking for.
+> *Recommendation: Add appropriate icons to help the user recognize each of the main categories more easily.*  
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* **Bad**: When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. If most dates are already booked at a certain location, the user will have to toggle through each date to see which times are available. This is incredibly inconvenient and time-consuming for the user. (2)
+> *Recommendation: Implement an option or button that will take the user to the next available date/time if all of the listed dates on the current calendar page are booked.*  
+
+#### 10. Help and Documentation
+* **Bad**: There is no FAQ section for the entire site nor a FAQ section specific to the DMV. If the user searches FAQ, only pdf files with hyperspecific topics like “FAQ-InnovationGrants-FY21-22” show up, which would not be helpful to the average user trying to make an appointment at the DMV. (3)
+> *Recommendation: Introduce two FAQ sections––one for the entire website attached in the footer and one specific to the Vehicle Registration & Licensing Division, accessible through the sidebar.* 
+

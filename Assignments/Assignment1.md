@@ -122,6 +122,7 @@ Overall, the website is clean and straightforward. The navigation bar is appropr
 
 #### 1. Visibility of System Status
 *  **Bad**: The navigation bar does not indicate which page the user is currently viewing. There is no visual signal to display where the page belongs, which may confuse the user when they are navigating back and forth between pages. (2)
+*  <img width="1027" alt="OfficeOfDirector" src="https://user-images.githubusercontent.com/82692970/135476234-d6455989-bbe6-45f2-b434-967d748ca711.png">
 > *Recommendation: Add a visual signal, such as a colored underline or a colored background for the navigation bar item the current page belongs to.*
 *  **Bad**: When filling out forms such as the “Marriage/Civil Union License Application,” there is no progress bar to indicate how far into the application the user is. (1)
 > *Recommendation: Add a progress bar that fills up as the user moves along the application.*
@@ -134,21 +135,25 @@ Overall, the website is clean and straightforward. The navigation bar is appropr
 #### 3. User Control and Freedom
 * **Good**: The user can freely navigate through the site by clicking the backward or forward button in their web browser. 
 *  **Bad**: When filling out the Marriage License Application, there is no “previous” button that allows the user to go back and edit information. There are only the “save and continue” button and “cancel” button, with the latter completely erasing all filled-out cells on previous pages. (2)
+*  <img width="209" alt="NoPreviousButton" src="https://user-images.githubusercontent.com/82692970/135476308-3387982f-6fc5-4c93-a524-5d85fd1674e2.png">
 > *Recommendation: Change the two buttons to “Previous” on the left and “Next” on the right. Introduce a system of auto-saving to expedite the lengthy application progress and streamline the user journey.*
 
 #### 4. Consistency and Standards
 * **Good**: The news articles are formatted in accordance to  feels very familiar to the user.
 * **Bad**:  Not all pages of the site display the path the user took to that specific page. For example, the “Office of the Director” page includes “Home » Office of the Director” at the top of the page, but not the “Strategic Plan” page. (1)
+* <img width="278" alt="Pathname" src="https://user-images.githubusercontent.com/82692970/135476387-39512077-e6f9-4e40-bfef-06de84dd8a59.png">
 > *Recommendation: Make sure all pages include pathnames so the user can traverse pages effortlessly, even without the forward and backward buttons of their web browser.*
 
 #### 5. Error Prevention
 * **Good**: On the Marriage License Application, there are clear instructions regarding formatting the free response questions and dropdown selections.
 * **Bad**: On the WIC application form, there are no visual indications that inform the user of required fields that might prevent them from moving on if left unfilled. This lack of signaling may be annoying for the user, especially if they are trying to fill out the application quickly. However, because the user does not know which fields are mandatory to fill out, they would have to fill out all fields or selectively answer questions they believe are mandatory, but risk being stopped by the system (if a mandatory field is left unfilled). (2)
+* <img width="442" alt="Norequiredfields" src="https://user-images.githubusercontent.com/82692970/135476442-d0d00388-2c4b-4f47-9784-652961288248.png">
 > *Recommendation: Place a red asterisk next to the required fields so the user can immediately recognize which questions are the most important.*  
 
 #### 6. Recognition Rather Than Recall
 * **Good**:The navigation bar items and the various submenus are effective in aiding users to recognize specific health topics they are interested in.
 * **Bad**: The search bar does not have any search filters or dropdown suggestions, increasing the user’s cognitive load when they do not have a specific topic in mind. (2)
+* <img width="968" alt="Searchbar2" src="https://user-images.githubusercontent.com/82692970/135476931-373c303f-7b1f-4203-961b-95e1ce2eee23.png">
 > *Recommendation: Introduce search filters on the search results page that can help the user sort results based on categories. Have suggestions drop down from the search bar as the user types.*
 
 #### 7. Flexibility and Efficiency of Use
@@ -158,8 +163,10 @@ Overall, the website is clean and straightforward. The navigation bar is appropr
 #### 8. Aesthetic and Minimalist Design
 * **Good**: Overall, the website is clean and easy to read. Hyperlinks are underlined in blue and there is enough spacing between longer reads to prevent the user from feeling overwhelmed. 
 * **Bad**: For news articles, the layout of the text is rather dry––everything is either in bullet or paragraph format with not much variation. (1)
+* <img width="993" alt="Newspaper" src="https://user-images.githubusercontent.com/82692970/135476561-869e14e5-81e5-49fa-9895-12d405ff9f33.png">
 > *Recommendation: Add a cover photo for each article as well as other images to aid with comprehension.* 
 * **Bad**: There are a lot of links and pages nested within each other, especially on the Health Topics page. It may be easy for the user to lose track of where on the page they are or which specific link they are looking for.
+* <img width="996" alt="Healthtopics" src="https://user-images.githubusercontent.com/82692970/135476634-be23a1d3-626f-4072-a821-42b09e620193.png">
 > *Recommendation: Add appropriate icons to help the user recognize each of the main categories more easily.*  
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors

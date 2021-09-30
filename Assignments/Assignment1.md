@@ -52,8 +52,46 @@ Overall, I’d say the website is very informative and detailed. It’s updated 
 
 #### 2. Match Between System and the Real World
 * **Good**: The sidebar items under the DMV website are organized in a logical manner. More complex items like “Driver Licensing––General Information” are broken down into subitems.
-*  **Bad**: However, some subitems can be a little intimidating and confusing for people who are unfamiliar with driving jargon, including people who are first-time drivers looking to apply for a permit or license. Terms like “Limited Purpose Instruction Permit” or even “Provisional Drivers License” may confuse users. (2)
+*  **Bad**: Some subitems can be a little intimidating and confusing for people who are unfamiliar with driving jargon, including people who are first-time drivers looking to apply for a permit or license. Terms like “Limited Purpose Instruction Permit” or even “Provisional Drivers License” may confuse users. (2)
 > *Recommendation: Rename and group sidebar items to more general terms such as “Types of Permits & License” so that the users feel more comfortable navigating the website. After clicking into the renamed menu item, terms that may seem unfamiliar to first-time drivers should be explained and then added as dropdown menu items.*
+
+#### 3. User Control and Freedom
+* **Good**: The user can freely navigate through the site by clicking the backward or forward button in their web browser. If they use the search bar, their query will be saved as well.
+*  **Bad**: When making a road test appointment, once the user fills out their info and clicks “continue the payment,” there is no way to return back to the first screen without losing all progress. This is rather inconvenient because people may want to double-check that they inputted the right permit number, re-confirm the date of the appointment, etc. (2)
+> *Recommendation: Redesign the form so that the user’s answers are saved/still accessible when moving back and forth between the different stages of the appointment-making process. It would also be useful to have a confirmation screen either before or as a split-screen during the payment review. This makes it easier for the user to check if they input the correct information without losing any progress.*
+
+
+#### 4. Consistency and Standards
+* **Good**: Hyperlinks are made distinct from the rest of the text through coloring and underline. Important phrases are bolded in color.
+* **Bad**: People usually look for buttons to make appointments, or some other type of distinction so they can recognize the call to action. To make an appointment, the user has to scroll through the page to find a link titled “appointment” among the many other hyperlinks underlined/colored in red. This does not match industry conventions. (3)
+* > *Recommendation: Create a separate button for making appointments.*
+*  **Bad**: The forms for making appointments for the VRL office and Road Test look drastically different [see Visibility of System Status for direct comparison]. (2)
+> *Recommendation: Redesign the form for booking a road test to emulate the style of the page for making VRL office appointments.*  
+
+#### 5. Error Prevention
+* **Good**: On content only, the website thoroughly details the process for making VRL and Road Test appointments. Also, when making a Road test appointment, the system does not allow the user to move on unless they confirm an open time slot.
+* **Bad**: When inputting the Permit Number and Behind the Wheel Certificate Number, the system does not check if the number of digits and formatting meet the permit/certificate numbering conventions of Hawaii. Similarly, there is also nothing that checks whether the inputted email address is real. (3)
+> *Recommendation: Offer an example for formatting the permit/certificate number as well as some secondary checking system that catches inputs that are not of a valid format.*  
+
+#### 6. Recognition Rather Than Recall
+* **Good**:
+* **Bad**:
+
+#### 7. Flexibility and Efficiency of Use
+* **Good**:
+* **Bad**:
+
+#### 8. Aesthetic and Minimalist Design
+* **Good**:
+* **Bad**:
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* **Good**:
+* **Bad**:
+
+#### 10. Help and Documentation
+* **Good**:
+* **Bad**:
 
 
 

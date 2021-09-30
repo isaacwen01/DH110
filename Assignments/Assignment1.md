@@ -130,6 +130,7 @@ Overall, the website is clean and straightforward. The navigation bar is appropr
 #### 2. Match Between System and the Real World
 * **Good**: The website employs user-friendly vocabulary to name the components of the navigation bar and buttons.
 *  **Bad**: Normally, if a navigation bar has an item with a submenu, directly clicking the item will lead the user to the first page on the submenu. However, clicking the navigation bar items that have submenus like “About DOH” and “News” does not do anything. (2)
+*  <img width="989" alt="Navbar" src="https://user-images.githubusercontent.com/82692970/135477448-f9b3f602-30f3-4d1d-96ab-262f6d63705d.png">
 > *Recommendation: Link the items on the navigation bar to the first page of the submenu for easier access.*
 
 #### 3. User Control and Freedom

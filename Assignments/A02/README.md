@@ -29,12 +29,12 @@ The process of the UT is as follows:
 7. The participant will be given a few minutes to explore the website on their own before providing demographic information.
 
 ### Survey Link
-* [Access the survey](https://forms.gle/avpPdBceoD4hH6taA)
+* Access the [survey](https://forms.gle/avpPdBceoD4hH6taA)
 
-* [Access the editable survey](https://docs.google.com/forms/d/1x4ZhF0YKrnfQJhJdr0GG28QtPcINdVsQWUkUgXMIsDA/edit?usp=sharing) (For Dr. Cho) 
+* Access the [editable survey](https://docs.google.com/forms/d/1x4ZhF0YKrnfQJhJdr0GG28QtPcINdVsQWUkUgXMIsDA/edit?usp=sharing) (For Dr. Cho) 
 
 ### Video Link
-* [Access the usability test video and screen recording](https://photos.app.goo.gl/gJUoS8wtUpeua4Gc6)
+* Access the [usability test video and screen recording](https://photos.app.goo.gl/gJUoS8wtUpeua4Gc6)
 
 ### Reflection
 For a pilot test, this usability test went pretty well. The participant was very cooperative and pretty familiar with similar testing/interview scenarios. He verbalized his thought process very clearly, articulating what he struggled with the most, and even suggested improvements that could streamline the user journey for each task. As the moderator, I didn’t have to give too many hints or speak much at all aside from reading the script, so I do not think my explanations affected the participant’s overall experience too much. 

@@ -28,11 +28,11 @@ The process of the UT is as follows:
 6. Subsequently, the participant will choose five adjectives that best describe their experience with the website.
 7. The participant will be given a few minutes to explore the website on their own before providing demographic information.
 
-###Survey Link
+### Survey Link
 
-###Video Link
+### Video Link
 
-###Reflection
+### Reflection
 For a pilot test, this usability test went pretty well. The participant was very cooperative and pretty familiar with similar testing/interview scenarios. He verbalized his thought process very clearly, articulating what he struggled with the most, and even suggested improvements that could streamline the user journey for each task. As the moderator, I didn’t have to give too many hints or speak much at all aside from reading the script, so I do not think my explanations affected the participant’s overall experience too much. 
 
 In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation.  For instance, the participant was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated.

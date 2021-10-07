@@ -29,6 +29,9 @@ The process of the UT is as follows:
 7. The participant will be given a few minutes to explore the website on their own before providing demographic information.
 
 ### Survey Link
+* [Access the survey](https://forms.gle/avpPdBceoD4hH6taA)
+
+* [Access the editable Survey](https://docs.google.com/forms/d/1x4ZhF0YKrnfQJhJdr0GG28QtPcINdVsQWUkUgXMIsDA/edit?usp=sharing) (For Dr. Cho) 
 
 ### Video Link
 

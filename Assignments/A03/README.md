@@ -16,17 +16,17 @@
 
 
 #### What are the limitations that possibly would be improved with (digital) technology?
-* Understanding the process: for first-time applicants, the multiple stages of the application process, along with the long list of requirements, may feel foreign. It is extremely easy for them to forget a legal document or to fulfill a requirement if they do not read carefully.
-* Understanding the language: the application form as well, as the legal documents required, uses a lot of jargon that first-time permit/license applicants might not understand
-* Long wait time: the permit/license application process is infamously long and inefficient. Quite often, applicants have to wait past their appointment time before reaching the front desk to submit their application form
+* *Understanding the process*: for first-time applicants, the multiple stages of the application process, along with the long list of requirements, may feel foreign. It is extremely easy for them to forget a legal document or to fulfill a requirement if they do not read carefully.
+* *Understanding the language*: the application form as well, as the legal documents required, uses a lot of jargon that first-time permit/license applicants might not understand
+* *Long wait time*: the permit/license application process is infamously long and inefficient. Quite often, applicants have to wait past their appointment time before reaching the front desk to submit their application form
 
 
 ## Step 2: Target Users
 
 #### What are the characteristics of users?
-* Demographics: students (mainly in high school and college) who want to start driving, senior citizens who have to renew their licenses
-* Preferences: users who have the desire to drive and thus need to require a permit or license to do so.
-* Expertise: users would not need any particular level of expertise for this project
+* *Demographics*: students (mainly in high school and college) who want to start driving, senior citizens who have to renew their licenses
+* *Preferences*: users who have the desire to drive and thus need to require a permit or license to do so.
+* *Expertise*: users would not need any particular level of expertise for this project
 
 #### Where would the users do that activity?
 * To apply for a permit or license, users would have to make an appointment either online or via phone call, fill out the required application form either online (digital or printed) or physically form from the DMV, and gather their legal documents from home. 
@@ -70,7 +70,6 @@
     
     To this user, the long lines at the DMV discouraged her from applying for a permit because she would have to wake up extra early to arrive before the crowd comes in. This is extremely inconvenient because she would have to spend extra time while losing out on sleep. It seems like the user values her time and would likely prioritize other responsibilities over going to the DMV.
 
-    
   * *Jargon confuses potential applicants*
   
     > "I think I would just, I would like there to be a little bit less text on the page and kind of like, like when that when it kind of gives you all that general information about the process, like I wish there was like one section that's kind of, like had everything just spelled out super clearly. And then links to all the pages that you need, like on this one page. Just super, just super clear that like, this is the main information that you need to see."

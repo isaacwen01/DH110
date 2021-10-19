@@ -1,4 +1,4 @@
-# DH150 Assignment 4: Contextual Inquiry
+# Assignment 4: Contextual Inquiry
 
 ### Isaac Wen | DH 110 | Fall 2021
 

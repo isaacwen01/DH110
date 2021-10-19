@@ -55,14 +55,13 @@
 
 ## Step 4: Observation/Interview Guide
 
-* Please find the link to the [interview script](https://docs.google.com/document/d/1q5xQgoCcj9-_8CHr-Bs_nBvVZ9nejpKN9JFdvcb2EOk/edit?usp=sharing)
+* Here is the link to the [interview script](https://docs.google.com/document/d/1q5xQgoCcj9-_8CHr-Bs_nBvVZ9nejpKN9JFdvcb2EOk/edit?usp=sharing)
 
 
 ## Step 5: Conducting the Research
 
-* Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1E2CohPc6rUwAMgB54cY0xZ3uaaPV3j8Fy878ju3Bi7w/edit?usp=sharing)
-* Below is the recording and video of the interview and participatory observation.
-  * [Contexual Inquiry Interview:](https://drive.google.com/file/d/1utbi2oDatdWyiCnw3sUwT7KS6vRC4YbY/view?usp=sharing)
+* Here is the link to the [transcription of the whole interview and participatory observation](https://docs.google.com/document/d/1E2CohPc6rUwAMgB54cY0xZ3uaaPV3j8Fy878ju3Bi7w/edit?usp=sharing)
+* Here is the link to the recording of the [contexual inquiry interview:](https://drive.google.com/file/d/1utbi2oDatdWyiCnw3sUwT7KS6vRC4YbY/view?usp=sharing)
 
 * Some interesting insights from the interview:
   * *The availability of DMV appointments affects people’s desire to apply for a permit/license*
@@ -88,5 +87,5 @@
 ## Step 6: Reflection
 
 * Overall, I felt that the contextual inquiry interview went pretty well. While designing my interview questions, I was afraid that the questions I created were too vague; I also struggled with coming up with background questions tailored towards my target user, a person without a driver’s permit or license. I felt that there weren’t a lot of quantitative questions I could ask them, considering driving behavior wasn’t applicable.
-* However, after conducting the interview, I felt that the answers my test user gave were actually extremely helpful in pinpointing the pain points of the audience. By observing how she interacted with the website, I got a better understanding of **how** my target user would interact with the product, **what** they would feel as they navigated the site, and **why** they felt that way. Specifically, the test user’s input reaffirmed my concerns regarding the website having too much information, lacking visual cues (like buttons), and having no system that prevents or checks for errors.
+* However, after conducting the interview, I felt that the answers my test user gave were actually extremely helpful in pinpointing the pain points of the audience. By observing how she interacted with the website, I got a better understanding of *how* my target user would interact with the product, *what* they would feel as they navigated the site, and *why* they felt that way. Specifically, the test user’s input reaffirmed my concerns regarding the website having too much information, lacking visual cues (like buttons), and having no system that prevents or checks for errors.
 * That being said, I do think I helped the user a little too much during the observation portion of the contextual inquiry. I saw that she was getting quite frustrated when trying to find information about applying for a permit and wanted to nudge her towards the right direction. To uphold the accuracy of my interview insights, I should have waited until the user requested for help and observed how she would have resolved that obstacle on her own.

@@ -16,7 +16,7 @@
 
 
 #### What are the limitations that possibly would be improved with (digital) technology?
-* *Understanding the process*: for first-time applicants, the multiple stages of the application process, along with the long list of requirements, may feel foreign. It is extremely easy for them to forget a legal document or to fulfill a requirement if they do not read carefully.
+* *Understanding the process*: for first-time applicants, the multiple stages of the application process, along with the long list of requirements, may feel foreign. It is extremely easy for them to forget a legal document or to fulfill a requirement if they do not read it carefully.
 * *Understanding the language*: the application form as well, as the legal documents required, uses a lot of jargon that first-time permit/license applicants might not understand
 * *Long wait time*: the permit/license application process is infamously long and inefficient. Quite often, applicants have to wait past their appointment time before reaching the front desk to submit their application form
 
@@ -24,12 +24,12 @@
 ## Step 2: Target Users
 
 #### What are the characteristics of users?
-* *Demographics*: students (mainly in high school and college) who want to start driving, senior citizens who have to renew their licenses
-* *Preferences*: users who have the desire to drive and thus need to require a permit or license to do so.
-* *Expertise*: users would not need any particular level of expertise for this project
+* Demographics: students (mainly in high school and college) who want to start driving, senior citizens who have to renew their licenses
+* Preferences: users who have the desire to drive and thus need to require a permit or license to do so.
+* Expertise: users would not need any particular level of expertise for this project
 
 #### Where would the users do that activity?
-* To apply for a permit or license, users would have to make an appointment either online or via phone call, fill out the required application form either online (digital or printed) or physically form from the DMV, and gather their legal documents from home. 
+* To apply for a permit or license, users would have to make an appointment either online or via phone call, fill out the required application form either online (digital or printed) or physically getting it from the DMV, and gather their legal documents from home. 
 
 #### What would the users do to complete that activity?
 * The goal of the users would be to make an appointment online for a written test (permit) or road test (license). To do that, they would have to go to the County of Hawaii’s website, choose to make an appointment, specify the reason of appointment, fill out their personal information, indicate which legal documents they will bring, and finally select an open slot. 
@@ -49,7 +49,7 @@
   b.	After the user successfully or unsuccessfully completed the objective, I asked follow-up questions to gauge their thoughts on the difficulty of the task and the efficiency of the website.
   
  **3.	Follow-up questions**
-    a.	Afterwards, I asked the user some directive questions about what specific aspects they found difficult about each task, how the problems they encountered might affect other uses, and their overal feelings on the process of applying for a permit or license.
+    a.	Afterwards, I asked the user some directive questions about what specific aspects they found difficult about each task, how the problems they encountered might affect other uses, and their overall feelings on the process of applying for a permit or license.
 
 
 
@@ -61,7 +61,7 @@
 ## Step 5: Conducting the Research
 
 * Here is the link to the [transcription of the whole interview and participatory observation](https://docs.google.com/document/d/1E2CohPc6rUwAMgB54cY0xZ3uaaPV3j8Fy878ju3Bi7w/edit?usp=sharing)
-* Here is the link to the recording of the [contexual inquiry interview:](https://drive.google.com/file/d/1utbi2oDatdWyiCnw3sUwT7KS6vRC4YbY/view?usp=sharing)
+* Here is the link to the recording of the [contextual inquiry interview:](https://drive.google.com/file/d/1utbi2oDatdWyiCnw3sUwT7KS6vRC4YbY/view?usp=sharing)
 
 * Some interesting insights from the interview:
   * *The availability of DMV appointments affects people’s desire to apply for a permit/license*
@@ -74,9 +74,9 @@
   
     > "I think I would just, I would like there to be a little bit less text on the page and kind of like, like when that when it kind of gives you all that general information about the process, like I wish there was like one section that's kind of, like had everything just spelled out super clearly. And then links to all the pages that you need, like on this one page. Just super, just super clear that like, this is the main information that you need to see."
     
-    The user was confused by the language used by the website as a lot of the kewords and links sounded similar; specifically, there were multiple types of permits and licenses that she could apply to. A first-time applicant might have a hard time differentiating between these different types.
+    The user was confused by the language used by the website as a lot of the keywords and links sounded similar; specifically, there were multiple types of permits and licenses that she could apply to. A first-time applicant might have a hard time differentiating between these different types.
    
-  * *Overal unfamiliarity with the process of getting a license*
+  * *Overall unfamiliarity with the process of getting a license*
   
     > "I think I would just, I would like there to be a little bit less text on the page and kind of like, like when that when it kind of gives you all that general information about the process, like I wish there was like one section that's kind of, like had everything just spelled out super clearly. And then links to all the pages that you need, like on this one page. Just super, just super clear that like, this is the main information that you need to see. ."
     
@@ -87,4 +87,4 @@
 
 * Overall, I felt that the contextual inquiry interview went pretty well. While designing my interview questions, I was afraid that the questions I created were too vague; I also struggled with coming up with background questions tailored towards my target user, a person without a driver’s permit or license. I felt that there weren’t a lot of quantitative questions I could ask them, considering driving behavior wasn’t applicable.
 * However, after conducting the interview, I felt that the answers my test user gave were actually extremely helpful in pinpointing the pain points of the audience. By observing how she interacted with the website, I got a better understanding of *how* my target user would interact with the product, *what* they would feel as they navigated the site, and *why* they felt that way. Specifically, the test user’s input reaffirmed my concerns regarding the website having too much information, lacking visual cues (like buttons), and having no system that prevents or checks for errors.
-* That being said, I do think I helped the user a little too much during the observation portion of the contextual inquiry. I saw that she was getting quite frustrated when trying to find information about applying for a permit and wanted to nudge her towards the right direction. To uphold the accuracy of my interview insights, I should have waited until the user requested for help and observed how she would have resolved that obstacle on her own.
+* That being said, I do think I helped the user a little too much during the observation portion of the contextual inquiry. I saw that she was getting quite frustrated when trying to find information about applying for a permit and wanted to nudge her towards the right direction. To uphold the accuracy of my interview insights, I should have waited until the user requested help and observed how she would have resolved that obstacle on her own.

@@ -17,7 +17,7 @@
 
 #### What are the limitations that possibly would be improved with (digital) technology?
 * *Understanding the process*: for first-time applicants, the multiple stages of the application process, along with the long list of requirements, may feel foreign. It is extremely easy for them to forget a legal document or to fulfill a requirement if they do not read it carefully.
-* *Understanding the language*: the application form as well, as the legal documents required, uses a lot of jargon that first-time permit/license applicants might not understand
+* *Understanding the language*: the application form, as well as the legal documents required, uses a lot of jargon that first-time permit/license applicants might not understand
 * *Long wait time*: the permit/license application process is infamously long and inefficient. Quite often, applicants have to wait past their appointment time before reaching the front desk to submit their application form
 
 

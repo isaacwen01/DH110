@@ -1,9 +1,12 @@
-# Assignment 4: Contextual Inquiry
+# Accessiblity of Hawaiian Government Websites
 
-### Isaac Wen | DH 110 | Fall 2021
+## Assignment 4: Contextual Inquiry
+Isaac Wen | DH 110 | Fall 2021
 
 
-## Step 1: Specify the Main Design Challenge
+
+
+### Step 1: Specify the Main Design Challenge
 
 #### What is the main activity your project would support the users in accomplishing?  
 * This project will support users in applying for an instructional permit and/or driver’s license in Hawaii, as well as other activities where they have to interact with the Vehicle Registration & Licensing Department.
@@ -21,7 +24,7 @@
 * *Long wait time*: the permit/license application process is infamously long and inefficient. Quite often, applicants have to wait past their appointment time before reaching the front desk to submit their application form
 
 
-## Step 2: Target Users
+### Step 2: Target Users
 
 #### What are the characteristics of users?
 * Demographics: students (mainly in high school and college) who want to start driving, senior citizens who have to renew their licenses
@@ -35,7 +38,7 @@
 * The goal of the users would be to make an appointment online for a written test (permit) or road test (license). To do that, they would have to go to the County of Hawaii’s website, choose to make an appointment, specify the reason of appointment, fill out their personal information, indicate which legal documents they will bring, and finally select an open slot. 
 
 
-## Step 3: Pick Research Methods
+### Step 3: Pick Research Methods
 
 #### Methods
 * To get a better understanding of how I can improve the user experience of the website for my target audience, I conducted a contextual inquiry interview.
@@ -53,12 +56,12 @@
 
 
 
-## Step 4: Observation/Interview Guide
+### Step 4: Observation/Interview Guide
 
 * Here is the link to the [interview script](https://docs.google.com/document/d/1q5xQgoCcj9-_8CHr-Bs_nBvVZ9nejpKN9JFdvcb2EOk/edit?usp=sharing)
 
 
-## Step 5: Conducting the Research
+### Step 5: Conducting the Research
 
 * Here is the link to the [transcription of the whole interview and participatory observation](https://docs.google.com/document/d/1E2CohPc6rUwAMgB54cY0xZ3uaaPV3j8Fy878ju3Bi7w/edit?usp=sharing)
 * Here is the link to the recording of the [contextual inquiry interview:](https://drive.google.com/file/d/1utbi2oDatdWyiCnw3sUwT7KS6vRC4YbY/view?usp=sharing)
@@ -83,7 +86,7 @@
     The user seems to be unfamiliar with the process of applying, so to her, the website had too much information in a very unorganized way that was hard to navigate. The website lacks an overview of the entire process with steps that people can follow, which might upset or frustrate first-time applicants.
 
 
-## Step 6: Reflection
+### Step 6: Reflection
 
 * Overall, I felt that the contextual inquiry interview went pretty well. While designing my interview questions, I was afraid that the questions I created were too vague; I also struggled with coming up with background questions tailored towards my target user, a person without a driver’s permit or license. I felt that there weren’t a lot of quantitative questions I could ask them, considering driving behavior wasn’t applicable.
 * However, after conducting the interview, I felt that the answers my test user gave were actually extremely helpful in pinpointing the pain points of the audience. By observing how she interacted with the website, I got a better understanding of *how* my target user would interact with the product, *what* they would feel as they navigated the site, and *why* they felt that way. Specifically, the test user’s input reaffirmed my concerns regarding the website having too much information, lacking visual cues (like buttons), and having no system that prevents or checks for errors.

@@ -2,7 +2,6 @@
 
 ## Assignment 4: Contextual Inquiry
 Isaac Wen | DH 110 | Fall 2021
-<br  />
 
 ## Step 1: Specify the Main Design Challenge
 

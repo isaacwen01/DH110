@@ -80,7 +80,7 @@
   
     > "I think I would just, I would like there to be a little bit less text on the page and kind of like, like when that when it kind of gives you all that general information about the process, like I wish there was like one section that's kind of, like had everything just spelled out super clearly. And then links to all the pages that you need, like on this one page. Just super, just super clear that like, this is the main information that you need to see. ."
     
-    The user seems to be unfamiliar with the process of applying, so to her, the website had too much information in a very unorganized way that was hard to navigate. The website lacks an overview of the entire process, which might upset or frustrate first-time applicants.
+    The user seems to be unfamiliar with the process of applying, so to her, the website had too much information in a very unorganized way that was hard to navigate. The website lacks an overview of the entire process with steps that people can follow, which might upset or frustrate first-time applicants.
 
 
 ## Step 6: Reflection

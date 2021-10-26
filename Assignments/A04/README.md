@@ -11,7 +11,7 @@ Isaac Wen | DH 110 | Fall 2021
 
 ## Personas & Empathy Maps
 ### Persona 1: Mia Reyes - Aspriring Driver & Social Butterfly
-![Mia Reyes Persona](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/images/Persona%201.png)
+![Mia Reyes Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Reyes%20Persona.png)
 
 #### Mia's Empathy Map
 <img src="/images/Persona%201%20Empathy%20Map.png" width="60%">

@@ -36,36 +36,28 @@ that would be able to tackle the target user's pain points:
 ### 1. Mia's Scenario & Journey Map
 #### Why Mia is using this product
 > Mia is a 16-year old high school junior who has been looking forward to getting a driver’s license for a long time. After her 16th birthday, her parents finally gave her permission to drive. She is beyond excited but is completely clueless about the prerequisites of getting a license. She wants to start as soon as possible but needs someone to walk her through the process so she has some expectations. Having an impatient temperament, Mia wants to know how long she has to wait for each “step” of the process so she doesn’t waste too much time. 
+
+#### How Mia is using this product
 > Growing up in the digital age, Mia is very comfortable with technology and has a tendency to move through web pages quickly. She goes to the County of Hawai’i website and is able to locate the Vehicle Registration & Licensing Division relatively easily. Initially confused by the unfamiliar terms used by the site, such as “CDL permits,” Mia feels a little intimidated as she skims through some of the notifications about policy changes or updates. However, she scrolls down to find an interactive timeline that gives a high-level overview of the application process and breaks it down into digestible steps. Each step indicates its estimated wait time or processing time, which Mia finds very practical for a busy high schooler like herself. Mia clicks the “learn more” button under each step to learn more about the parts of the application process in more detail. Now having some expectations of what the process will look like, Mia cheers up and begins filling out the application form.
 
-#### Mai's Journey Map
+#### Mia's Journey Map
 <img src="/images/Persona%201%20Journey%20Map.png">
 
 
-### 2. Nicole's Scenario & Journey Map
-#### Why Nicole is using this product
-> Nicole just moved to Irvine from New York after getting married. She really misses her four best friends from back in New York. They used to have a book club where every month, they read one book and meet at her apartment to talk about it over dinner. Nicole and her friends still want to have an “online book club,” where they can discuss books and recommend new books to each other. She also wants to be able to track and organize all of the books she’s read by herself and with her friends.
+### 2. Frida's Scenario & Journey Map
+#### Why Frida is using this product
+> Frida is a 78-year old retired senior who is a grandmother to several grandchildren. One of her children has recently started a new yet highly demanding job, so Frida wants to help out by taking care of her 7-year old grandchild and taking him to his extracurricular classes. Previously relying on public transportation, Frida must renew her license and re-familiarize herself with driving in order to be able to take her grandson to his daily karate classes and weekly piano lessons. However, she is unfamiliar with the license renewal process, especially now that it is highly digitized. As a senior, Frida isn’t very proficient at using laptops and smartphones and prefers more traditional methods of communication. She needs much assistance with navigating the site and is apprehensive about being on the road again after not driving for many years.
 
-#### How Nicole is using this product
-> After dinner, Nicole opens the app to see that her friend Lisa posted a comment about a book she and her friends are reading together. She responds to the comment by clicking the “reply” button under Lisa’s comment. Nicole also found a new book she wants to read with them, so she types in the title of the book in the search bar, then clicks “share,” and shares them to her friends.
+#### How Frida is using this product
+> Barely able to reach the County of Hawai’i website, Frida is unable to navigate to the “License Renewal” page. She repeatedly clicks the back and forwards button on the browser, thinking it would help her move towards her desired destination. Though frustrated, Frida notices a help button with a question mark icon at the bottom right corner of the screen. She clicks it and a popup appears asking if she needs help. Frida clicks “yes” and is taken to a help webpage specifically for the Vehicle Registration & Licensing Division, which also includes a FAQ section. Frida finds a helpline number, calls it, and is promptly connected to a representative who walks her through the application process verbally and emails her the necessary forms. After the call, Frida browses through the FAW section to find a senior citizen module with practical advice from other seniors who have successfully renewed their licenses. Feeling relieved, Frida begins to fill out the license renewal application form.
 
-#### Nicole's Journey Map
+#### Frida's Journey Map
 <img src="/images/Persona%202%20Journey%20Map.png">
 
 
-### 3. David's Scenario & Journey Map
-#### Why David is using this product
-> David is a retired English teacher living in Seattle with his wife. He wants to talk and interact with his grandchildren, who are ages 10 and 14 and live in San Francisco. He decides that recommending books would be a good way to connect with them, since he knows about many good classic novels. Because he reads many books at the same time, he also wants to keep track of his thoughts on a book, so that he can immediately remember where he left off in the story. However, David only needs these two features, so he really wants something that is simple to use.
-
-#### How David is using this product
-> Since his older grandchild asked if he knows any historical fiction novels, David decides to share with him All Quiet on the Western Front. He searches the title in the search bar, then finds the book as the first result. He clicks on it, and then clicks the “share” button. The shared book goes to the private group he has with his grandchildren on the application. Then, he goes back to the home screen, where he clicks on the “notes” section, because he wants to read a book he has not touched in a few weeks. He jogs his memory by reading his notes, and starts reading the book.
-
-#### David's Journey Map
-<img src="/images/Persona%203%20Journey%20Map.png">
-
 
 ## Reflection
-* Coming up with personas was more difficult than I expected. Thinking of unbiased, diverse personas while taking everything from the heuristic evaluations and user interviews into account made me really feel like I knew these users personally. 
-* Next time, I would also like to take research about more demographic information, such as the main population group that
-reads books or uses reading apps, to make decisions about personas.
+* It was actually really fun creating the prototype personas and giving them realistic backstories to bring them to life. For Mia's persona, I based it off of my second test user, but ultimatley gave her a different personality and upbringing. However, she still shares the same primary struggles as those indicated by my test user during the contextual inquiry. I had to get a little creative with the second persona, and decided to focus in on the other end of the age spectrum––seniors who understandably have a lot of trouble adjusting to the digitization of once handwritten, traditional application forms.
+* The biggest difficulty of this assignment was translating the "challenges" for each persona to their respective journey maps. I found that each challenge the 
+personas faced were solved by different features. Since the scenarios are centered around the product features, I had to narrow down the challenges I chose to address in each journey map.
 

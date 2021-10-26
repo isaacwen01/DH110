@@ -41,7 +41,7 @@ that would be able to tackle the target user's pain points:
 > Growing up in the digital age, Mia is very comfortable with technology and has a tendency to move through web pages quickly. She goes to the County of Hawai’i website and is able to locate the Vehicle Registration & Licensing Division relatively easily. Initially confused by the unfamiliar terms used by the site, such as “CDL permits,” Mia feels a little intimidated as she skims through some of the notifications about policy changes or updates. However, she scrolls down to find an interactive timeline that gives a high-level overview of the application process and breaks it down into digestible steps. Each step indicates its estimated wait time or processing time, which Mia finds very practical for a busy high schooler like herself. Mia clicks the “learn more” button under each step to learn more about the parts of the application process in more detail. Now having some expectations of what the process will look like, Mia cheers up and begins filling out the application form.
 
 #### Mia's Journey Map
-<img src="/images/Persona%201%20Journey%20Map.png">
+![Mia Journey Map](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Journey%20Map.png)
 
 
 ### 2. Frida's Scenario & Journey Map
@@ -52,7 +52,7 @@ that would be able to tackle the target user's pain points:
 > Barely able to reach the County of Hawai’i website, Frida is unable to navigate to the “License Renewal” page. She repeatedly clicks the back and forwards button on the browser, thinking it would help her move towards her desired destination. Though frustrated, Frida notices a help button with a question mark icon at the bottom right corner of the screen. She clicks it and a popup appears asking if she needs help. Frida clicks “yes” and is taken to a help webpage specifically for the Vehicle Registration & Licensing Division, which also includes a FAQ section. Frida finds a helpline number, calls it, and is promptly connected to a representative who walks her through the application process verbally and emails her the necessary forms. After the call, Frida browses through the FAW section to find a senior citizen module with practical advice from other seniors who have successfully renewed their licenses. Feeling relieved, Frida begins to fill out the license renewal application form.
 
 #### Frida's Journey Map
-<img src="/images/Persona%202%20Journey%20Map.png">
+![Frida Journey Map](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Frida%20Journey%20Map.png)
 
 
 

@@ -11,17 +11,17 @@ Isaac Wen | DH 110 | Fall 2021
 
 ## Personas & Empathy Maps
 ### Persona 1: Mia Reyes - Aspriring Driver & Social Butterfly
-![Mia Reyes Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Reyes%20Persona.png)
+![Mia Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Persona.png)
 
 #### Mia's Empathy Map
-<img src="/images/Persona%201%20Empathy%20Map.png" width="60%">
+![Mia Empathy Map](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Reyes%20Empathy%20Map.png)
 
 
 ### Persona 2: Frida Tachibana - Retired Senior & Helpful Grandmother
-<img src="/images/Persona2.png">
+![Frida Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Frida%20Persona.png)
 
 #### Frida's Empathy Map
-<img src="/images/Persona%202%20Empathy%20Map.png" width="60%">
+![Frida Empathy Map](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Frida%20Tachibana%20Empathy%20Map.png)
 
 
 ## Proposed Features

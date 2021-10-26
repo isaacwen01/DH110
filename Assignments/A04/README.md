@@ -57,7 +57,7 @@ that would be able to tackle the target user's pain points:
 
 
 ## Reflection
-* It was actually really fun creating the prototype personas and giving them realistic backstories to bring them to life. For Mia's persona, I based it off of my second test user, but ultimatley gave her a different personality and upbringing. However, she still shares the same primary struggles as those indicated by my test user during the contextual inquiry. I had to get a little creative with the second persona, and decided to focus in on the other end of the age spectrum––seniors who understandably have a lot of trouble adjusting to the digitization of once handwritten, traditional application forms.
+* It was actually really fun creating the prototype personas and giving them realistic backstories to bring them to life. For Mia's persona, I based it off of my second test user, but ultimately gave her a different personality and upbringing. However, she still shares the same primary struggles as those indicated by my test user during the contextual inquiry. I had to get a little creative with the second persona, and decided to focus in on the other end of the age spectrum––seniors who understandably have a lot of trouble adjusting to the digitization of once handwritten, traditional application forms.
 * The biggest difficulty of this assignment was translating the "challenges" for each persona to their respective journey maps. I found that each challenge the 
 personas faced were solved by different features. Since the scenarios are centered around the product features, I had to narrow down the challenges I chose to address in each journey map.
 

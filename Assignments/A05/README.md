@@ -41,20 +41,27 @@ Click the following link to view the wireframes without the flow: Wireframes
 ## Wireflow
 ### Flow 1
 This wireflow was designed to test tasks 1 & 2.
+![Flow 1](https://github.com/isaacwen01/DH110/blob/main/Assignments/A05/DHI10_Wireflow1.png)
 
 ### Flow 2
 This wireflow was designed to test task 3. This was kept separate from the main flow to avoid clutter.
-
+![Flow 2](https://github.com/isaacwen01/DH110/blob/main/Assignments/A05/DH_110_Wireflow2.png)
 
 ## Prototype Testing
-### Flow 1 - Confusions and/or unexpected interactions:
+### Flow 1
+![Flow 1 Test](https://github.com/isaacwen01/DH110/blob/main/Assignments/A05/DH110_Prototype1.png)
+
+### Confusions and/or unexpected interactions:
 * On the “Permit & License General Information” screen, the user was not sure what to press (the icon or text) to view the interactive timeline.
 * On the interactive timeline, the user overlooked the “read more” button and was not able to make the connection between the timeline with the subsequent pages that contain more detail about each stage of the process.
 * While booking an appointment, the user was confused by the organization of information and the language used. 
   - On the first page, the different appointments are sorted by “Driver’s License”, “State ID”, and “Motor Vehicle Registration.” The user thought “Driver’s License” referred to the road test and not a way of categorizing appointments. 
   - After filling out his personal information, the user is presented with a screen with the title “Instruction Permit.” The user thought this was a mistake as he believed it brought him to a previous page; however, the “Instruction Permit” was simply the section of the appointment-scheduling form that asked for information about which type of instruction permit he is applying for.
 
-### Flow 2 - Confusions and/or unexpected interactions:
+### Flow 2 
+### Flow 2
+![Flow 2 Test](https://github.com/isaacwen01/DH110/blob/main/Assignments/A05/DH_110_Prototype2.png)
+### Confusions and/or unexpected interactions:
 * The user mistakenly thought the “help” button at the bottom right corner was a help page specific to scheduling an appointment and not a visual & audio guide for “License Renewal” in general.
 
 

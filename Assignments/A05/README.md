@@ -59,7 +59,6 @@ This wireflow was designed to test task 3. This was kept separate from the main 
   - After filling out his personal information, the user is presented with a screen with the title “Instruction Permit.” The user thought this was a mistake as he believed it brought him to a previous page; however, the “Instruction Permit” was simply the section of the appointment-scheduling form that asked for information about which type of instruction permit he is applying for.
 
 ### Flow 2 
-### Flow 2
 ![Flow 2 Test](https://github.com/isaacwen01/DH110/blob/main/Assignments/A05/DH_110_Prototype2.png)
 ### Confusions and/or unexpected interactions:
 * The user mistakenly thought the “help” button at the bottom right corner was a help page specific to scheduling an appointment and not a visual & audio guide for “License Renewal” in general.

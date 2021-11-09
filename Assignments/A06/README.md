@@ -84,6 +84,8 @@ In the end, I decided to use the 5th variation from the revised screens. I sligh
 ![Final Design](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/FINAL%20DESIGN%20(1).png)
 
 ## Color Contrast Check
+All of my design elements passed the recommended 4.5:1 ratio.
+
 ### Text V.S. Background
 ![Text V.S. Background](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/TextvsBackground.png)
 ### Button V.S. Background

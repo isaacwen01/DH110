@@ -91,7 +91,7 @@ In the end, I decided to use the 5th variation from the revised screens. I sligh
         * Gutter: 5
 
 ## Design Decisions:
-**Typeface: 
+**Typeface:**
 > I chose Europa because I wanted to use a Sans Serif font for its modern feel and readability. Europa stood out to me among other Sans Serif fonts because it matched well with the logo font of the county of Hawai’i, so using it throughout the site did not seem unusual. The site will have a lot of information, so I wanted to keep the default body text size as 16. From there, I wanted the heading and subheading sizes to be somewhat similar and not too overpowerful, so I used 32 and 24 respectively.
 
 **Color Scheme:** 

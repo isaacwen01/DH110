@@ -44,13 +44,16 @@ Here is the link to the first round of [impression testing](https://drive.google
 **Overall Impression:**
 > The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
 website based on the interface design.
+
 **Typography:**
 > The user preferred fonts that were easier to look at and not too dramatic. He did not like the second variation with all the letters capitalized, 
 describing it as too “in your face” and overly strong.
+
 **Shape:**
 > The user immediately indicated his dislike for the second variation, stating that the semi-rounded buttons were not a good look as it was halfway in 
 between squared and rounded corners for no good reason. The user stated that the rectangular buttons (1st var) help establish the tone of a government website while the rounded buttons (3rd var) were more aesthetically pleasing.
-**Color:**
+
+**Color Scheme:**
 > The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
 information-heavy sites. He also pointed out that the color scheme for light mode was more compatible; the light blue background complimented the bright blue buttons well. In contrast, he felt that the dark color in the dark mode design did not match the vibrancy of the buttons and in exchange, created a stark, but awkward contrast.
 
@@ -59,11 +62,20 @@ information-heavy sites. He also pointed out that the color scheme for light mod
 For the second round of [impression testing](https://drive.google.com/file/d/1VljcbC9BH3jJb7O5YwNYknC8lDRqzgoW/view?usp=sharing), I made 5 variations of the screen he liked the most from the previous impression test and asked him to compare and contrast each version.
 
 ### Findings:
-* 1st var: This design remained unchanged from the previous test.
-* 2nd var: The user did not appreciate the stylized button as it added no function or aesthetic value to the site.
-* 3rd var: The user liked the design but said it was incomparable to the first variation.
-* 4th var: The user appreciated the addition of the icons, but expressed that he still preferred the first variation because of its simplicity.
-* 5th var: The user preferred this modification over the 4th because the rounded edges matched well with the icons and generated a more comfortable and “design”-like feel.
+**1st var**
+> This design remained unchanged from the previous test.
+
+**2nd var:**
+> The user did not appreciate the stylized button as it added no function or aesthetic value to the site.
+
+**3rd var:**
+> The user liked the design but said it was incomparable to the first variation.
+
+**4th var:**
+> The user appreciated the addition of the icons, but expressed that he still preferred the first variation because of its simplicity.
+
+**5th var:** 
+> The user preferred this modification over the 4th because the rounded edges matched well with the icons and generated a more comfortable and “design”-like feel.
 
 
 ## Final Design:

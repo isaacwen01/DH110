@@ -16,16 +16,21 @@ Here is the link to the digitized wireflow https://www.figma.com/file/FiP5xIDKEK
 
 
 ## Chosen Wireframe
+![Landing Page](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Landing%20Page.png)
 
 ## Screen Design
 
-## Layout Design:
+### Layout Design:
+![Layout](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Screen%20Shot%202021-11-09%20at%204.25.09%20AM.png)
 
-## Typographic Variations:
+### Typographic Variations:
+![Typographic Variations](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Typographic%20Variations.png)
 
-## Shape Variations:
+### Shape Variations:
+![Shape Variations](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Shape%20Variations.png)
 
-## Color Variations:
+### Color Variations:
+![Color Variations](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Color%20Variations.png)
 
 
 ## Impression Test:

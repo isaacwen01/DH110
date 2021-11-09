@@ -63,6 +63,8 @@ For the second round of [impression testing](https://drive.google.com/file/d/1Vl
 
 
 ## Final Design:
+In the end, I decided to use the 5th variation from the revised screens. I slightly modified the design by adding a rounded search bar to establish a more coherent identity throughout the page. The reason why I chose this 5th variation is that I thought the addition of icons would make it more accessible to users who may not be too fluent in English or struggle with English. In addition, I decided to round the edges of buttons, even if it makes the screen look less professional or government-like, to help make the interface appear less intimidating. The process of applying for or renewing a license is intimidating enough––the website that is supposed to show people *how* to do so does not need to be that serious-looking! I want the user to feel comfortable and encouraged to continue reading more about the process of getting/renewing a license without feeling stressed.
+
 ![Final Design](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/FINAL%20DESIGN%20(1).png)
 
 ## Design System:
@@ -88,7 +90,7 @@ For the second round of [impression testing](https://drive.google.com/file/d/1Vl
         * Height: 35
         * Gutter: 5
 
-## Design Decisions:**
+## Design Decisions:
 **Typeface: 
 > I chose Europa because I wanted to use a Sans Serif font for its modern feel and readability. Europa stood out to me among other Sans Serif fonts because it matched well with the logo font of the county of Hawai’i, so using it throughout the site did not seem unusual. The site will have a lot of information, so I wanted to keep the default body text size as 16. From there, I wanted the heading and subheading sizes to be somewhat similar and not too overpowerful, so I used 32 and 24 respectively.
 

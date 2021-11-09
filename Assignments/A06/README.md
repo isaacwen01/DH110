@@ -93,7 +93,7 @@ In the end, I decided to use the 5th variation from the revised screens. I sligh
 
 
 ## Design System:
-![Design System](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Screen%20Shot%202021-11-09%20at%203.27.15%20AM.png)
+![Design System](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Screen%20Shot%202021-11-09%20at%205.03.36%20AM.png)
 * Typeface:
   * Family: Europa
     * Header: Bold, Size 32

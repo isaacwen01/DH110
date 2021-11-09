@@ -41,13 +41,17 @@ Here is the link to the first round of [impression testing](https://drive.google
 
 
 ### Findings:
-* Overall Impression: The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
+**Overall Impression:**
+> The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
 website based on the interface design.
-* Typography: The user preferred fonts that were easier to look at and not too dramatic. He did not like the second variation with all the letters capitalized, 
+**Typography:**
+> The user preferred fonts that were easier to look at and not too dramatic. He did not like the second variation with all the letters capitalized, 
 describing it as too “in your face” and overly strong.
-* Shape: The user immediately indicated his dislike for the second variation, stating that the semi-rounded buttons were not a good look as it was halfway in 
+**Shape:**
+> The user immediately indicated his dislike for the second variation, stating that the semi-rounded buttons were not a good look as it was halfway in 
 between squared and rounded corners for no good reason. The user stated that the rectangular buttons (1st var) help establish the tone of a government website while the rounded buttons (3rd var) were more aesthetically pleasing.
-* Color: The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
+**Color:**
+> The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
 information-heavy sites. He also pointed out that the color scheme for light mode was more compatible; the light blue background complimented the bright blue buttons well. In contrast, he felt that the dark color in the dark mode design did not match the vibrancy of the buttons and in exchange, created a stark, but awkward contrast.
 
 
@@ -66,6 +70,15 @@ For the second round of [impression testing](https://drive.google.com/file/d/1Vl
 In the end, I decided to use the 5th variation from the revised screens. I slightly modified the design by adding a rounded search bar to establish a more coherent identity throughout the page. The reason why I chose this 5th variation is that I thought the addition of icons would make it more accessible to users who may not be too fluent in English or struggle with English. In addition, I decided to round the edges of buttons, even if it makes the screen look less professional or government-like, to help make the interface appear less intimidating. The process of applying for or renewing a license is intimidating enough––the website that is supposed to show people *how* to do so does not need to be that serious-looking! I want the user to feel comfortable and encouraged to continue reading more about the process of getting/renewing a license without feeling stressed.
 
 ![Final Design](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/FINAL%20DESIGN%20(1).png)
+
+## Color Contrast Check
+### Text V.S. Background
+![Text V.S. Background](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/TextvsBackground.png)
+### Button V.S. Background
+![Button V.S. Background](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/ButtonvsBackground.png)
+### Button Label V.S. Button
+![Button Label V.S. Button](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/LabelvsButton.png)
+
 
 ## Design System:
 ![Design System](https://github.com/isaacwen01/DH110/blob/main/Assignments/A06/Screen%20Shot%202021-11-09%20at%203.27.15%20AM.png)

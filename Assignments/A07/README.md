@@ -96,7 +96,7 @@ This prototype introduced many revisions.
 
 ### General Changes:
 1. Interface Design: I reverted my interface design to the final version I submitted for assignment 6, characterized by round buttons and the font Europa. The round buttons created a more “familiar” and “welcoming” feel for the site and the font matches the pre-existing brand assets better. I made minor edits here and there to create more variety for font sizes and colors. All changes are updated in Figma’s design system.
-2. Smoother Transitions: To create a smoother interaction flow, I refined some of the transitions, including preserving the scroll position and adding overlays.
+2. Smoother Transitions: To create a smoother interaction flow, I refined some of the transitions, including preserving the scroll position of certain screens and adding overlays.
 
 ### Problem-Specific
 1. Standardized Clickable Items/Buttons:

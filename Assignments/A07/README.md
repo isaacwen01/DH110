@@ -30,16 +30,17 @@ This interactive prototype supports 3 tasks:
 ## Wireflow w/ final interface design
 For clarity and readability, I separated the flow by task:
 
-Task 1 Flow:
+### Task 1 Flow:
+![Task 1 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%201%20Flow.png)
 
 
-
-Task 2 Flow:
+### Task 2 Flow:
+![Task 2 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%202%20Flow.png)
 *note that the flow lines of the back arrows for the appointment-booking screens are intentionally left out in this prototype as clicking them would make the user lose their progress.
 
 
-
-Task 3 Flow:
+### Task 3 Flow:
+![Task 3 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%203%20Flow.png)
 
 
 If you would like to see the full wireflow, please check out this Figma file.
@@ -81,6 +82,10 @@ Proposed Revision: Changing the field name to “Type of Vehicle” instead of �
 
 
 ## Prototype 2 (Revision):
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110" allowfullscreen></iframe>
+
+
 https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=196%3A12887 
 
 This prototype introduced many revisions.

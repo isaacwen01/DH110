@@ -98,14 +98,14 @@ This prototype introduced many revisions.
 
 ### Problem-Specific
 1. Standardized Clickable Items/Buttons:
-* Problem: On the “Permit & Licensing General Information page”, the user got confused about whether they should click the text or icon.
-* Solution: I made the icons decorative by removing the colored padding that would otherwise mislead the user into thinking it is a button. I then added a separate button below the subheader that would prompt the user to click it.
+> Problem: On the “Permit & Licensing General Information page”, the user got confused about whether they should click the text or icon.
+> Solution: I made the icons decorative by removing the colored padding that would otherwise mislead the user into thinking it is a button. I then added a separate button below the subheader that would prompt the user to click it.
 2. Home Button:
-* Problem: There is no easy way to return to the home screen.
-* Solution: I linked the “County of Hawai’i” logo to the home screen, effectively making it a home button since the logo is on every single screen.
+> Problem: There is no easy way to return to the home screen.
+> Solution: I linked the “County of Hawai’i” logo to the home screen, effectively making it a home button since the logo is on every single screen.
 3. Added Spacing & Changed Font:
-* Problem: Some of the chunks of texts were harder to read, especially on the “The Process” pages.
-* Solution: I didn’t increase the font size as that would lead to excessive scrolling. Instead, I reverted back to using Europa as my main font as Europa sized 16 is larger and bolder than Futura sized 16. Referencing the gestalt principles, I added extra spacing between different sections to help the user group related categories of information more easily. Lastly, I changed the font color to black to increase contrast.
+> Problem: Some of the chunks of texts were harder to read, especially on the “The Process” pages.
+> Solution: I didn’t increase the font size as that would lead to excessive scrolling. Instead, I reverted back to using Europa as my main font as Europa sized 16 is larger and bolder than Futura sized 16. Referencing the gestalt principles, I added extra spacing between different sections to help the user group related categories of information more easily. Lastly, I changed the font color to black to increase contrast.
 4. Rephrasing questions on the appointment-scheduling form:
-* Problem: Users were asked the “type of permit” they were applying to twice. The second question is actually referring to the type of vehicle class they’re interested in applying for.
-* Solution: I rephrased the question into “Type of Vehicle '' with a dropdown button so the user can clearly tell that the question is referring to vehicle class and not type of permit again. 
+> Problem: Users were asked the “type of permit” they were applying to twice. The second question is actually referring to the type of vehicle class they’re interested in applying for.
+> Solution: I rephrased the question into “Type of Vehicle '' with a dropdown button so the user can clearly tell that the question is referring to vehicle class and not type of permit again. 

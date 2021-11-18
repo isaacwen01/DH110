@@ -33,7 +33,8 @@ For clarity and readability, I separated the flow by task:
 
 ### Task 2 Flow:
 ![Task 2 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%202%20Flow.png)
-*Note that the flow lines of the back arrows for the appointment-booking screens are intentionally left out in this prototype as clicking them would make the user lose their progress.*
+*Note that the flow lines of the back arrows of the browser for the appointment-booking screens are intentionally left out in this 
+prototype as clicking them would make the user lose their progress.*
 
 
 ### Task 3 Flow:
@@ -54,7 +55,7 @@ walkthroughs and usability tests.
 
 ## Cognitive Walkthrough & Usability Tests
 
-## Cognitive Walkthrough:
+### Cognitive Walkthrough:
 [Access Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
 
 Overall, I think the cognitive walkthrough went smoothly. To my delight, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. 
@@ -65,7 +66,7 @@ Proposed Revision: Adding a separate button and converting the icon into a decor
 The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
 Proposed Revision: Making the “County of Hawai’i” icon a button that leads back to the home page
 
-## Usability Tests:
+### Usability Tests:
 In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
 
 [UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
@@ -83,7 +84,7 @@ Proposed Revision: Changing the field name to “Type of Vehicle” instead of �
 
 ## Prototype 2 (Revision):
 
-[Access Prototype 2](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=196%3A12887)
+[Access Prototype 2](https://www.figma.com/proto/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=179%3A1110&scaling=scale-down&page-id=179%3A1087&starting-point-node-id=179%3A1110)
 
 *Again, the back arrows of the browser (not the prev buttons on the website itself) for the appointment-booking screens are not activated in this prototype. This is to prevent the user from losing progress on their appointment-booking form.*
 

@@ -1,6 +1,6 @@
 # Accessiblity of Hawaiian Government Websites
 
-## Assignment 8: Draft Documentation
+## In-Class Activity: Draft Documentation
 Isaac Wen | DH 110 | Fall 2021
 
 

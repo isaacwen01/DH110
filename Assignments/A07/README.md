@@ -3,9 +3,6 @@
 ## Assignment 7: High Fidelity Prototype
 Isaac Wen | DH 110 | Fall 2021
 
-## Useful Links
-
-
 ## Overview
 ### Summary
 This interactive high fidelity prototype is a redesign of the County of Hawai’i and specifically its Vehicle Registration & Licensing Department. 

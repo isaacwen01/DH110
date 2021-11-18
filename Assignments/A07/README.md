@@ -40,7 +40,7 @@ For clarity and readability, I separated the flow by task:
 ![Task 3 Flow](https://github.com/isaacwen01/DH110/blob/main/Assignments/A07/Task%203%20Flow.png)
 
 
-## Full Wireflow:
+### Full Wireflow:
 [Access Full Wireflow](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=213%3A15634)
 
 

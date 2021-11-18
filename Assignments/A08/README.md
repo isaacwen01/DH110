@@ -1,6 +1,6 @@
 # Accessiblity of Hawaiian Government Websites
 
-## Assignment 7: High Fidelity Prototype
+## Assignment 8: Draft Documentation
 Isaac Wen | DH 110 | Fall 2021
 
 

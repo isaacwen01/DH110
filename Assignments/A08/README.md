@@ -51,6 +51,7 @@ The purpose of a usability test (UT) is to evaluate a website using the three me
 UX storytelling is the key to empathizing and understanding the user. Storytelling essentially places the designer in the user’s shoes, allowing them to imagine problems the user faces and visualize how the user may respond to them. This allows them to design product features that more directly resolve the pain points of the user. Most importantly, UX storytelling helps the designer get rid of any biases they might have had and design in a human-centered manner.
 
 ![Mia Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Persona.png)
+<img src="https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Persona.png" alt="Mia Persona">
 
 ![Frida Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Frida%20Persona.png)
 

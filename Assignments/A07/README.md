@@ -44,7 +44,7 @@ For clarity and readability, I separated the flow by task:
 
 
 ## Full Wireflow:
-Click the following link to access the [full wireflow](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=213%3A15634)
+[Access Full Wireflow](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=213%3A15634)
 
 
 ## Prototype 1 (1st Iteration):
@@ -58,7 +58,7 @@ walkthroughs and usability tests.
 ## Cognitive Walkthrough & Usability Tests
 
 ## Cognitive Walkthrough:
-[Access Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+[Access Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
 
 Overall, I think the cognitive walkthrough went smoothly. To my delight, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. 
 
@@ -70,8 +70,10 @@ Proposed Revision: Making the “County of Hawai’i” icon a button that leads
 
 ## Usability Tests:
 In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
-[UT 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
-[UT 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
+
+[UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
+
+[UT Video 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
 
 Overall, the usability tests went very smoothly and the testers’ overall reactions post-test were positive. They appreciated the straightforward interaction flow and minimalistic design. Most, if not all, tasks took shorter than expected and both testers associated the website with the adjectives “professional”, “familiar”, “calm”, and “trustworthy”.
 
@@ -84,10 +86,8 @@ Proposed Revision: Changing the field name to “Type of Vehicle” instead of �
 
 ## Prototype 2 (Revision):
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110" allowfullscreen></iframe>
-
-
 [Access Prototype 2](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=196%3A12887)
+
 *Again, the back arrows of the browser (not the prev buttons on the website itself) for the appointment-booking screens are not activated in this prototype. This is to prevent the user from losing progress on their appointment-booking form.*
 
 This prototype introduced many revisions.
@@ -99,13 +99,23 @@ This prototype introduced many revisions.
 ### Problem-Specific
 1. Standardized Clickable Items/Buttons:
 > Problem: On the “Permit & Licensing General Information page”, the user got confused about whether they should click the text or icon.
+
 > Solution: I made the icons decorative by removing the colored padding that would otherwise mislead the user into thinking it is a button. I then added a separate button below the subheader that would prompt the user to click it.
+
+
 2. Home Button:
 > Problem: There is no easy way to return to the home screen.
+
 > Solution: I linked the “County of Hawai’i” logo to the home screen, effectively making it a home button since the logo is on every single screen.
+
+
 3. Added Spacing & Changed Font:
 > Problem: Some of the chunks of texts were harder to read, especially on the “The Process” pages.
+
 > Solution: I didn’t increase the font size as that would lead to excessive scrolling. Instead, I reverted back to using Europa as my main font as Europa sized 16 is larger and bolder than Futura sized 16. Referencing the gestalt principles, I added extra spacing between different sections to help the user group related categories of information more easily. Lastly, I changed the font color to black to increase contrast.
+
+
 4. Rephrasing questions on the appointment-scheduling form:
 > Problem: Users were asked the “type of permit” they were applying to twice. The second question is actually referring to the type of vehicle class they’re interested in applying for.
+
 > Solution: I rephrased the question into “Type of Vehicle '' with a dropdown button so the user can clearly tell that the question is referring to vehicle class and not type of permit again. 

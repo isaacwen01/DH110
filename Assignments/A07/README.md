@@ -61,10 +61,12 @@ walkthroughs and usability tests.
 Overall, I think the cognitive walkthrough went smoothly. To my delight, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. 
 
 However, they did point out some areas of improvement:
-On the “Permit & License Information” page, the tester indicated that she did not know what to click––the icon or the text. She assumed that the text would be clickable as well, not just the icon.
-Proposed Revision: Adding a separate button and converting the icon into a decorative element
-The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
-Proposed Revision: Making the “County of Hawai’i” icon a button that leads back to the home page
+
+1. On the “Permit & License Information” page, the tester indicated that she did not know what to click––the icon or the text. She assumed that the text would be clickable as well, not just the icon.
+> Proposed Revision: Adding a separate button and converting the icon into a decorative element
+
+2. The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
+> Proposed Revision: Making the “County of Hawai’i” icon a button that leads back to the home page
 
 ### Usability Tests:
 In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
@@ -76,10 +78,12 @@ In addition to the cognitive walkthroughs, I conducted more thorough usability t
 Overall, the usability tests went very smoothly and the testers’ overall reactions post-test were positive. They appreciated the straightforward interaction flow and minimalistic design. Most, if not all, tasks took shorter than expected and both testers associated the website with the adjectives “professional”, “familiar”, “calm”, and “trustworthy”.
 
 Nonetheless, the usability tests reaffirmed some of the problems that were noticed during the cognitive walkthrough. The overall lack of backflow and some minor button inconsistencies confused my testers. Aside from the aforementioned issues, there were some other issues that were brought up:
-Text is slightly hard to read: since there’s a lot of reading to do, especially in the “Process” section, the small font size is a little hard to read.
-Proposed Revision: Changing the font back to Europa, as Europa sized 16 is slightly larger and bolder than Futura sized 16. Adding more space between subheaders and body text will also help with readability.
-Confusing Appointment-Booking Screen: the tester thought that they were asked twice about what type of appointment they wanted to make––once at the beginning (before selecting the date) and once when filling out their personal information. Technically, the second question asks the user what class vehicle (moped, motorcycle, passenger vehicle) they want to apply for, but the question was phrased ambiguously, leading to confusion.
-Proposed Revision: Changing the field name to “Type of Vehicle” instead of “Type of Permit” to avoid ambiguity.
+
+1. Text is slightly hard to read: since there’s a lot of reading to do, especially in the “Process” section, the small font size is a little hard to read.
+> Proposed Revision: Changing the font back to Europa, as Europa sized 16 is slightly larger and bolder than Futura sized 16. Adding more space between subheaders and body text will also help with readability.
+
+2. Confusing Appointment-Booking Screen: the tester thought that they were asked twice about what type of appointment they wanted to make––once at the beginning (before selecting the date) and once when filling out their personal information. Technically, the second question asks the user what class vehicle (moped, motorcycle, passenger vehicle) they want to apply for, but the question was phrased ambiguously, leading to confusion.
+> Proposed Revision: Changing the field name to “Type of Vehicle” instead of “Type of Permit” to avoid ambiguity.
 
 
 ## Prototype 2 (Revision):
@@ -92,7 +96,7 @@ This prototype introduced many revisions.
 
 ### General Changes:
 1. Interface Design: I reverted my interface design to the final version I submitted for assignment 6, characterized by round buttons and the font Europa. The round buttons created a more “familiar” and “welcoming” feel for the site and the font matches the pre-existing brand assets better. I made minor edits here and there to create more variety for font sizes and colors. All changes are updated in Figma’s design system.
-2. Smoother Transitions: To create a smoother interaction flow, I refined some of the transitions, including preserving the scroll position.
+2. Smoother Transitions: To create a smoother interaction flow, I refined some of the transitions, including preserving the scroll position and adding overlays.
 
 ### Problem-Specific
 1. Standardized Clickable Items/Buttons:

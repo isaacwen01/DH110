@@ -46,7 +46,7 @@ prototype as clicking them would make the user lose their progress.*
 
 
 ## Prototype 1 (1st Iteration):
-[Access Prototype 1](https://www.figma.com/file/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=129%3A960)
+[Access Prototype 1](https://www.figma.com/proto/FiP5xIDKEKWrtnXJAAugWU/DH-110-Project?node-id=115%3A1046&scaling=scale-down&page-id=99%3A163&starting-point-node-id=115%3A1046)
 
 For this iteration of prototyping, I actually used screen designs that resembled more of my lo-fi prototype. Key traits of this design system include 
 rectangular buttons, which aim to establish a more professional feel to the site. However, I quickly noticed some issues after conducting cognitive 

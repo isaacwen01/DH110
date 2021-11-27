@@ -5,43 +5,26 @@ Isaac Wen | DH 110 | Fall 2021
 
 
 ### Introduction: 
-This project aims to examine the accessibility and efficiency of the current website for the Vehicle Registration & Licensing (VRL) deparment of the County of Hawai'i. Hawai'i has around 516,544 registered automobiles––all of these drivers have had to interact with the DMV or VRL office at one point. The Vehicle Registration & Licensing Department has a notorious reputation of being highly ineffective and a hassle to work with, resulting in many people having rather negative experiences while applying for permits or licenses, attempting to renew licenses, registering vehicles, and more. Through this project, I hope to expedite the various processess of the VRL, make it easier for first time applicants to learn about licensing procedures, and introduce accessible features that assist thsoe who are not as technologically literate.
+This project aims to redesign the current website for the Vehicle Registration & Licensing (VRL) deparment of the County of Hawai'i to enhance its efficiency and improve its accessibility. The Vehicle Registration & Licensing Department has a notorious reputation of being highly ineffective and a hassle to work with, resulting in many people having rather negative experiences while applying for permits or licenses, attempting to renew licenses, registering vehicles, and more. Through this project, I hope to expedite the various processess of the VRL, make it easier for first time applicants to learn about licensing procedures, and introduce accessible features that assist thsoe who are not as technologically literate.
 
 ### Design statement: 
 People find it difficult and confusing to navigate the current website for the Vehicle Registration & Licensing (VRL) department of the County of Hawai'i, preventing them from learning about the processes involved in VRL-related activities and making appointments accordingly.
 
-### Competitor analysis [assignment01 & 02]:
-I conducted a heuristic evaluation on the current County of Hawai'i website. This website belongs to the County of Hawaii and offers tax services, employment information, tax maps, permits, etc. However, I’ll mainly be examining the Vehicle Registration and Licensing Division. The webpage covers information about VRL Office Appointments, Road Test Appointments, COVID-19 FAQs, and many other forms and documents that are crucial for vehicle registration and licensing.
-
-### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
-| Number | Heuristic | Description |
-|---|---|---|
-| 1 | Visibility of System Status | The system informs the user about what is going on. It indicates the status of the task and gives appropriate feedback. |
-| 2 | Match Between System and the Real World | The system is intuitive and designed based on ideas and concepts familiar or logical to the user. |
-| 3 | User Control and Freedom | The system allows the user to have control and use the site freely, including the ability to undo and redo. |
-| 4 | Consistency and Standards | The system follows conventions in its design and makes sure its components are designed consistently across the platform. |
-| 5 | Error Prevention | The system prevents error-prone conditions and offers safety-nets such as reminders or a confirmation notice. |
-| 6 | Recognition Rather Than Recall | The system gives options to choose from or suggestions to reference. |
-| 7 | Flexibility and Efficiency of Use | The system is designed flexibly so that there are multiple ways for the user to perform a task. |
-| 8 | Aesthetic and Minimalist Design | The system contains only relevant information and its design components present the information in an uncluttered, useful way. |
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | The system informs the user of errors and provides suggestions to resolve the issue. |
-| 10 | Help and Documentation | The system has additional resources to help users complete their tasks. |
-
-### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
-Ratings are displayed in parentheses after each usability issue.
-| Rating | Description |
-|---|---|
-| 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
-| 2 | Minor usability problem: fixing this should be given low priority |
-| 3 | Major usability problem: important to fix, so should be given high priority |
+### Competitor analysis:
+I conducted a heuristic evaluation on the County of Hawai'i website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when using the site. By evaluating the issues I notice against the ten heuristics, I more accurately pinpointed the exact problems that were plaguing the website and began proposing potential changes that would help improve the overall user experience.
 
 [>> Read More](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
 
+![Current Website](https://github.com/isaacwen01/DH110/blob/main/HawaiiDMVWebsite.png)
+
 
 ### User research [contextual inquiry, assignment04]:
-The purpose of a usability test (UT) is to evaluate a website using the three metrics of effectiveness, efficiency, and satisfaction. It is a relatively reliable way to identify and gauge how severe specific usability problems are. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allows designers to better empathize with a typical user of the product. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design.
+The purpose of a usability test (UT) is to evaluate the website using the three metrics of effectiveness, efficiency, and satisfaction. It is a relatively reliable way to identify and gauge how severe specific usability problems are. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allows designers to better empathize with a typical user of the product. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design. For instance, my test user struggled with finding the "make appointment" button because of the vast amount of unorganized information/text he had to sift through.
 
 [>> Read More about UT](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
+
+
+Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. Like its name suggests, 
 
 [>> Read More about Contextual Inquiry](https://github.com/isaacwen01/DH110/tree/main/Assignments/A03)
 

@@ -32,13 +32,17 @@ I asked my participant to perform three tasks that corresponded to the top three
 2. Identify the documents and procedures necessary to renew a license.
 3. Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit.
 
-In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. For instance, the test user was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated.
-For instance, my test user struggled with finding the "make appointment" button because of the vast amount of unorganized information/text he had to sift through.
+In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, the test user was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated.
 
 [>> Read More about UT](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
 
 
-Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. Like its name suggests, 
+Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. Like its name suggests, this process aims to give me, the researcher, more context about a typical user by allowing the participant talk about their motives behind using the VRL website, their hesitations, struggles, and what they like/dislike about the site.
+
+My main takeaways were the following:
+1. The availability of DMV appointments affects people’s desire to apply for a permit/license.
+2. Jargon confuses potential applicants.
+3. People are unfamiliar with the process of getting a license.
 
 [>> Read More about Contextual Inquiry](https://github.com/isaacwen01/DH110/tree/main/Assignments/A03)
 

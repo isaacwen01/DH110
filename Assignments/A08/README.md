@@ -1,12 +1,11 @@
 # Accessiblity of Hawaiian Government Websites
 
-## In-Class Activity: Draft Documentation
+## Assignment 08: Pitch
 Isaac Wen | DH 110 | Fall 2021
 
 
 ### Introduction: 
-This project aims to examine the accessibility and efficiency of Hawaiian government websites. Our government plays an important role in society, from taking actions on social issues to protecting our boundaries. Of course, our government also manages the way we go about our daily lives, including setting regulations on transportation and healthcare. Hawaii, for instance, has around 516,544 registered automobiles––all of these drivers have had to interact with the DMV at one point. Healthcare, on the other hand, is even more of a necessity, and for Hawaii's 1.4 million population, access to the right health resources and information is beyond crucial. For this reason, I specifically wanted to analyze the website for Vehicle Registration & Licensing and Hawaii State Department of Health to examine ways we could expedite the licensing process and make health-related news/resources more accessible for everyone.
-
+This project aims to examine the accessibility and efficiency of the current website for the Vehicle Registration & Licensing (VRL) deparment of the County of Hawai'i. Hawai'i has around 516,544 registered automobiles––all of these drivers have had to interact with the DMV or VRL office at one point. The Vehicle Registration & Licensing Department has a notorious reputation of being highly ineffective and a hassle to work with, resulting in many people having rather negative experiences while applying for permits or licenses, attempting to renew licenses, registering vehicles, and more. Through this project, I hope to expedite the various processess of the VRL, make it easier for first time applicants to learn about licensing procedures, and introduce accessible features that assist thsoe who are not as technologically literate.
 
 ### Design statement: 
 People find it difficult and confusing to navigate the current website for the Vehicle Registration & Licensing (VRL) department of the County of Hawai'i, preventing them from learning about the processes involved in VRL-related activities and making appointments accordingly.

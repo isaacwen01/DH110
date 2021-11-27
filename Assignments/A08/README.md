@@ -11,15 +11,29 @@ This project aims to redesign the current website for the Vehicle Registration &
 People find it difficult and confusing to navigate the current website for the Vehicle Registration & Licensing (VRL) department of the County of Hawai'i, preventing them from learning about the processes involved in VRL-related activities and making appointments accordingly.
 
 ### Competitor analysis:
-I conducted a heuristic evaluation on the County of Hawai'i website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when using the site. By evaluating the issues I notice against the ten heuristics, I more accurately pinpointed the exact problems that were plaguing the website and began proposing potential changes that would help improve the overall user experience.
+I conducted a heuristic evaluation on the County of Hawai'i website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when using the site. By evaluating the issues I notice against the ten heuristics, I more accurately pinpointed the exact problems that were plaguing the website and began proposing potential changes that would help improve the overall user experience. [>> Read More](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
 
-[>> Read More](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
+The top 3 issues were the following:
+
+| Heuristic | Usability Problem | Task Scenario |
+|---|---|---|
+| Help Users Recognize, Diagnose, and Recover from Errors | When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. | Find the earliest date for a road test appointment. |
+| Aesthetic and Minimalist Design | The lack of paragraph breaks throughout the information-dense pages makes finding certain requirements/documents difficult. | Identify the documents and procedures necessary to renew a license. |
+| Help and Documentation | The FAQ section for the Department of Vehicle Registration & Licensing is obscured and not discoverable through the search function. | Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit. |
 
 ![Current Website](https://github.com/isaacwen01/DH110/blob/main/HawaiiDMVWebsite.png)
 
 
 ### User research [contextual inquiry, assignment04]:
-The purpose of a usability test (UT) is to evaluate the website using the three metrics of effectiveness, efficiency, and satisfaction. It is a relatively reliable way to identify and gauge how severe specific usability problems are. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allows designers to better empathize with a typical user of the product. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design. For instance, my test user struggled with finding the "make appointment" button because of the vast amount of unorganized information/text he had to sift through.
+After conducting the initial heuristic evaluation, I decided that I needed to conduct a usability test (UT) so I could better evaluate the current website using the three metrics of effectiveness, efficiency, and satisfaction. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allowed me to better empathize with typical users of the site––a first-time permit applicant who is unfamiliar with a lot of the jargon used on the site or an elderly who might not be techinologically literate. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design. 
+
+I asked my participant to perform three tasks that corresponded to the top three heuristics violated:
+1. Find the earliest date for a road test appointment.
+2. Identify the documents and procedures necessary to renew a license.
+3. Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit.
+
+In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. For instance, the test user was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated.
+For instance, my test user struggled with finding the "make appointment" button because of the vast amount of unorganized information/text he had to sift through.
 
 [>> Read More about UT](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
 

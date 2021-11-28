@@ -55,8 +55,10 @@ Throughout my research, I created two personas––Mia, the aspiring driver app
 <img src="/DH110/blob/main/Assignments/A08/Mia%20Persona.png" alt="Mia">
 <img src="/DH110/blob/main/Assignments/A08/Frida%20Persona.png" alt="Frida">
 
+<img src="Assignments/A08/Frida Persona.png" alt="Mia"> 
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+
+## Wireframe and graphic design element variation
 
 After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information heiarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
 

@@ -52,8 +52,8 @@ UX storytelling is the key to empathizing and understanding the user. Storytelli
 
 Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website, and more importantly, identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site. [Read more about the personas...](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
 
-<img src="https://github.com/isaacwen01/DH110/blob/main/Assignments/A08/Mia%20Persona.png" alt="Mia">
-<img src="https://github.com/isaacwen01/DH110/blob/main/Assignments/A08/Frida%20Persona.png" alt="Frida">
+<img src="/DH110/blob/main/Assignments/A08/Mia%20Persona.png" alt="Mia">
+<img src="/DH110/blob/main/Assignments/A08/Frida%20Persona.png" alt="Frida">
 
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]

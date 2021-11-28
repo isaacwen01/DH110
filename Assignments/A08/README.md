@@ -11,7 +11,7 @@ This project aims to redesign the current website for the Vehicle Registration &
 People find it difficult and confusing to navigate the current website for the Vehicle Registration & Licensing (VRL) department of the County of Hawai'i, preventing them from learning about the processes involved in VRL-related activities and making appointments accordingly.
 
 ## Competitor analysis:
-I conducted a heuristic evaluation on the County of Hawai'i website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when using the site. By evaluating the issues I notice against the ten heuristics, I more accurately pinpointed the exact problems that were plaguing the website and began proposing potential changes that would help improve the overall user experience. [>> Read More](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
+I conducted a heuristic evaluation on the County of Hawai'i website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when using the site. By evaluating the issues I notice against the ten heuristics, I more accurately pinpointed the exact problems that were plaguing the website and began proposing potential changes that would help improve the overall user experience. [Read more about the heuristic evaluation...](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
 
 The top 3 issues were the following:
 
@@ -34,27 +34,23 @@ I asked my participant to perform three tasks that corresponded to the top three
 2. Identify the documents and procedures necessary to renew a license.
 3. Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit.
 
-In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, the test user was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated.
-
-[>> Read More about UT](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
+In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, the test user was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated. [Read more about usability testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
 
 ### Contextual Inquiry
 Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. Like its name suggests, this process aims to give me, the researcher, more context about a typical user by allowing the participant talk about their motives behind using the VRL website, their hesitations, struggles, and what they like/dislike about the site.
 
-My main takeaways were the following:
+My biggest takeaways from the contextual inquiry were the following:
 1. The availability of DMV appointments affects people’s desire to apply for a permit/license.
 2. Jargon confuses potential applicants.
 3. People are unfamiliar with the process of getting a license.
 
-[>> Read More about Contextual Inquiry](https://github.com/isaacwen01/DH110/tree/main/Assignments/A03)
+[Read more about contextual inquiry...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A03)
 
 
 ## UX storytelling 
 UX storytelling is the key to empathizing and understanding the user. Storytelling essentially places the designer in the user’s shoes, allowing them to imagine problems the user faces and visualize how the user may respond to them. This allows them to design product features that more directly resolve the pain points of the user. Most importantly, UX storytelling helps the designer get rid of any biases they might have had and design in a human-centered manner.
 
-Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website, and more importantly, identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site.
-
-[>> Read More about the personas](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
+Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website, and more importantly, identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site. [Read more about the personas...](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
 
 ![Mia Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Persona.png)
 
@@ -112,20 +108,16 @@ For this round of testing, I gave the user 5 seconds to look at the first screen
 
 [>> Impression Test Video](https://drive.google.com/file/d/1COGA-PxMYzvWXI-rnx4LyJaLv1ZeNWFl/view?usp=sharing)
 
-**Overall Impression:**
-> The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
+1. Overall Impression: The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
 website based on the interface design.
 
-**Typography:**
-> The user preferred fonts that were easier to look at and not too dramatic. He did not like the second variation with all the letters capitalized, 
+2. Typography: The user preferred fonts that were easier to look at and not too dramatic. He did not like the second variation with all the letters capitalized, 
 describing it as too “in your face” and overly strong.
 
-**Shape:**
-> The user immediately indicated his dislike for the second variation, stating that the semi-rounded buttons were not a good look as it was halfway in 
+3. Shape: The user immediately indicated his dislike for the second variation, stating that the semi-rounded buttons were not a good look as it was halfway in 
 between squared and rounded corners for no good reason. The user stated that the rectangular buttons (1st var) help establish the tone of a government website while the rounded buttons (3rd var) were more aesthetically pleasing.
 
-**Color Scheme:**
-> The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
+4. Color: The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
 information-heavy sites. He also pointed out that the color scheme for light mode was more compatible; the light blue background complimented the bright blue buttons well. In contrast, he felt that the dark color in the dark mode design did not match the vibrancy of the buttons and in exchange, created a stark, but awkward contrast.
 
 

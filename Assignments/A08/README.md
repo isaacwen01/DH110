@@ -25,6 +25,8 @@ The top 3 issues were the following:
 
 
 ## User research:
+
+### Usability Testing
 After conducting the initial heuristic evaluation, I decided that I needed to conduct a usability test (UT) so I could better evaluate the current website using the three metrics of effectiveness, efficiency, and satisfaction. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allowed me to better empathize with typical users of the site––a first-time permit applicant who is unfamiliar with a lot of the jargon used on the site or an elderly who might not be techinologically literate. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design. 
 
 I asked my participant to perform three tasks that corresponded to the top three heuristics violated:
@@ -36,7 +38,7 @@ In regards to the County of Hawai’i website, the participant reaffirmed the us
 
 [>> Read More about UT](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
 
-
+### Contextual Inquiry
 Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. Like its name suggests, this process aims to give me, the researcher, more context about a typical user by allowing the participant talk about their motives behind using the VRL website, their hesitations, struggles, and what they like/dislike about the site.
 
 My main takeaways were the following:

@@ -100,7 +100,31 @@ I went through several different iterations of hi-fi prototyping. The protoype e
 
 During the high-fidelity phase of the project, I made several changes to my design based on the feedback I received from my various test users. I conducted an impression test, cognitive walkthrough, and several usability tests to pinpoint the flaws of my design and make changes accordingly.
 
+### Impression Test
+For this round of testing, I gave the user 5 seconds to look at the first screen and asked him his general impression of the site as well as what he thought the function of the site was. Then, I showed him the screen variations and asked him to compare it to the first screen, pointing out things he liked or disliked about each variation.
 
+[>> Impression Test Video](https://drive.google.com/file/d/1COGA-PxMYzvWXI-rnx4LyJaLv1ZeNWFl/view?usp=sharing)
+
+**Overall Impression:**
+> The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
+website based on the interface design.
+
+**Typography:**
+> The user preferred fonts that were easier to look at and not too dramatic. He did not like the second variation with all the letters capitalized, 
+describing it as too “in your face” and overly strong.
+
+**Shape:**
+> The user immediately indicated his dislike for the second variation, stating that the semi-rounded buttons were not a good look as it was halfway in 
+between squared and rounded corners for no good reason. The user stated that the rectangular buttons (1st var) help establish the tone of a government website while the rounded buttons (3rd var) were more aesthetically pleasing.
+
+**Color Scheme:**
+> The user preferred the light mode design over the dark mode. He stated that he was more used to using light mode, especially when it comes to reading 
+information-heavy sites. He also pointed out that the color scheme for light mode was more compatible; the light blue background complimented the bright blue buttons well. In contrast, he felt that the dark color in the dark mode design did not match the vibrancy of the buttons and in exchange, created a stark, but awkward contrast.
+
+
+### Cognitive Walkthrough
+
+After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype
 
 [>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
 

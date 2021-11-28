@@ -124,9 +124,17 @@ information-heavy sites. He also pointed out that the color scheme for light mod
 
 ### Cognitive Walkthrough
 
-After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype
+After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype and questions that accessed the efficiency of my prototype. Overall, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. 
+
+However, they did point out some areas of improvement:
+1. On the “Permit & License Information” page, the tester indicated that she did not know what to click––the icon or the text. She assumed that the text would be clickable as well, not just the icon.
+2. The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
+
+
 
 [>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+
+
 
 [>> UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
 

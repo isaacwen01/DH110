@@ -94,7 +94,7 @@ After completing and testing the lo-fi prototype, I proceeded to create a high-f
 
 I went through several different iterations of hi-fi prototyping. The protoype embedded below is my final prototype, and the revision history will be included in the next section.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1087" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 ## Evaluation and revision history 
 

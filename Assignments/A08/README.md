@@ -133,7 +133,7 @@ Overall, my two testers were able to easily follow the intended interaction flow
 2. The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
 
 
-## Usability Testing
+### Usability Testing
 
 In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
 

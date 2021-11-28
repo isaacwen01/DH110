@@ -75,6 +75,7 @@ Design Variations:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 
+
 ## Low-fidelity prototype
 
 Low-fidelity (lo-fi) prototyping is a quick and relatively easy way for designers to test the layout, information hierarchy, and functionality of proposed features of a work-in-progress product at a relatively low cost. Its purpose is to “fail quickly”––to identify problems early on in the design process and help designers rapidly redesign the product. For this project, lo-fi prototyping allowed me to realize whether or not my redesign of the original website was effective; in other words, its main purpose was the evaluate the functionality of the redesigned website.
@@ -84,9 +85,11 @@ The three tasks supported by this prototype were the following:
 2. Make an appointment (Instruction Permit)
 3. Access visual & audio guide (License Renewal)
 
-Below are the wireflow and low-fidelity prototypes I made:
+Below is the low-fidelity prototype I made:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D31%253A422" allowfullscreen></iframe>
+
+
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 
@@ -95,6 +98,8 @@ After completing and testing the lo-fi prototype, I proceeded to create a high-f
 I went through several different iterations of hi-fi prototyping. The protoype embedded below is my final prototype, and the revision history will be included in the next section.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+
+
 
 ## Evaluation and revision history 
 
@@ -137,15 +142,15 @@ Overall, my two testers were able to easily follow the intended interaction flow
 
 In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
 
+[>> UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
+
+[>> UT Video 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
+
 Overall, the usability tests went very smoothly and the testers’ overall reactions post-test were positive. They appreciated the straightforward interaction flow and minimalistic design. Most, if not all, tasks took shorter than expected and both testers associated the website with the adjectives “professional”, “familiar”, “calm”, and “trustworthy”.
 
 Nonetheless, the usability tests reaffirmed some of the problems that were noticed during the cognitive walkthrough. The overall lack of backflow and some minor button inconsistencies confused my testers. Aside from the aforementioned issues, there were some other issues that were brought up:
 
 The text is slightly hard to read––since there’s a lot of reading to do, especially in the “Process” section, the small font size is a little hard to read. The appointment-booking screen is confusing––the tester thought that they were asked twice about what type of appointment they wanted to make––once at the beginning (before selecting the date) and once when filling out their personal information. Technically, the second question asks the user what class vehicle (moped, motorcycle, passenger vehicle) they want to apply for, but the question was phrased ambiguously, leading to confusion.
-
-[>> UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
-
-[>> UT Video 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
 
  
 ## Pitch video 

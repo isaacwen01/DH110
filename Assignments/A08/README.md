@@ -24,7 +24,7 @@ The top 3 issues were the following:
 ![Current Website](https://github.com/isaacwen01/DH110/blob/main/HawaiiDMVWebsite.png)
 
 
-## User research [contextual inquiry, assignment04]:
+## User research:
 After conducting the initial heuristic evaluation, I decided that I needed to conduct a usability test (UT) so I could better evaluate the current website using the three metrics of effectiveness, efficiency, and satisfaction. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allowed me to better empathize with typical users of the site––a first-time permit applicant who is unfamiliar with a lot of the jargon used on the site or an elderly who might not be techinologically literate. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design. 
 
 I asked my participant to perform three tasks that corresponded to the top three heuristics violated:

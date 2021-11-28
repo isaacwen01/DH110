@@ -124,21 +124,29 @@ information-heavy sites. He also pointed out that the color scheme for light mod
 
 ### Cognitive Walkthrough
 
-After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype and questions that accessed the efficiency of my prototype. Overall, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. 
+After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype and questions that accessed the efficiency of my prototype. 
 
-However, they did point out some areas of improvement:
+[>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+
+Overall, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. However, they did point out some areas of improvement:
 1. On the “Permit & License Information” page, the tester indicated that she did not know what to click––the icon or the text. She assumed that the text would be clickable as well, not just the icon.
 2. The tester struggled with returning to the home page and was confused by some of the back/previous buttons.
 
 
+## Usability Testing
 
-[>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
 
+Overall, the usability tests went very smoothly and the testers’ overall reactions post-test were positive. They appreciated the straightforward interaction flow and minimalistic design. Most, if not all, tasks took shorter than expected and both testers associated the website with the adjectives “professional”, “familiar”, “calm”, and “trustworthy”.
 
+Nonetheless, the usability tests reaffirmed some of the problems that were noticed during the cognitive walkthrough. The overall lack of backflow and some minor button inconsistencies confused my testers. Aside from the aforementioned issues, there were some other issues that were brought up:
+
+The text is slightly hard to read––since there’s a lot of reading to do, especially in the “Process” section, the small font size is a little hard to read. The appointment-booking screen is confusing––the tester thought that they were asked twice about what type of appointment they wanted to make––once at the beginning (before selecting the date) and once when filling out their personal information. Technically, the second question asks the user what class vehicle (moped, motorcycle, passenger vehicle) they want to apply for, but the question was phrased ambiguously, leading to confusion.
 
 [>> UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
 
 [>> UT Video 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
+
  
 ## Pitch video 
 

@@ -52,11 +52,11 @@ UX storytelling is the key to empathizing and understanding the user. Storytelli
 
 Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website, and more importantly, identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site.
 
+[>> Read More about the personas](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
+
 ![Mia Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Persona.png)
 
 ![Frida Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Frida%20Persona.png)
-
-[>> Read More about the personas](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
 
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
@@ -92,10 +92,15 @@ Below are the wireflow and low-fidelity prototypes I made:
 
 After completing and testing the lo-fi prototype, I proceeded to create a high-fidelity, interactive prototype on Figma. The purpose of this interactive prototype was to test both the interface and functionality of the redesigned County of Hawai’i website. It evaluated whether or not it was easy for the user to complete tasks, use the proposed feature, and follow the intended interaction flow.
 
+I went through several different iterations of hi-fi prototyping. The protoype embedded below is my final prototype, and the revision history will be included in the next section.
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1087" allowfullscreen></iframe>
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+### Evaluation and revision history 
+
+During the high-fidelity phase of the project, I made several changes to my design based on the feedback I received from my various test users. I conducted an impression test, cognitive walkthrough, and several usability tests to pinpoint the flaws of my design and make changes accordingly.
+
+
 
 [>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
 

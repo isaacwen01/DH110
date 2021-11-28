@@ -47,8 +47,10 @@ My main takeaways were the following:
 [>> Read More about Contextual Inquiry](https://github.com/isaacwen01/DH110/tree/main/Assignments/A03)
 
 
-### UX storytelling [persona+scenario, assignment05]
+### UX storytelling 
 UX storytelling is the key to empathizing and understanding the user. Storytelling essentially places the designer in the user’s shoes, allowing them to imagine problems the user faces and visualize how the user may respond to them. This allows them to design product features that more directly resolve the pain points of the user. Most importantly, UX storytelling helps the designer get rid of any biases they might have had and design in a human-centered manner.
+
+Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website, and more importantly, identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site.
 
 ![Mia Persona](https://github.com/isaacwen01/DH110/blob/main/Assignments/A04/Mia%20Persona.png)
 
@@ -59,22 +61,36 @@ UX storytelling is the key to empathizing and understanding the user. Storytelli
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
-Design Variations:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
+After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information heiarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
 
 Wireframes:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D213%253A15634" allowfullscreen></iframe>
 
 
-### Low-fidelity prototype (wireflow, assignment06)
+From there, I began workin on revising the interface design of the website. Good interface design categorizes the website’s current information into more digestible chunks that will give the user a high-level overview of the process. It also hides less relevant information and visually guides the user to follow a certain path that will allow them to easily apply for/renew a permit or license. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color.
+
+Design Variations:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+
+### Low-fidelity prototype
+
+Low-fidelity (lo-fi) prototyping is a quick and relatively easy way for designers to test the layout, information hierarchy, and functionality of proposed features of a work-in-progress product at a relatively low cost. Its purpose is to “fail quickly”––to identify problems early on in the design process and help designers rapidly redesign the product. For this project, lo-fi prototyping allowed me to realize whether or not my redesign of the original website was effective; in other words, its main purpose was the evaluate the functionality of the redesigned website.
+
+The three tasks supported by this prototype were the following:
+1. Use the Interactive Timeline
+2. Make an appointment (Instruction Permit)
+3. Access visual & audio guide (License Renewal)
+
+Below are the wireflow and low-fidelity prototypes I made:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D31%253A422" allowfullscreen></iframe>
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+
+After completing and testing the lo-fi prototype, I proceeded to create a high-fidelity, interactive prototype on Figma. The purpose of this interactive prototype was to test both the interface and functionality of the redesigned County of Hawai’i website. It evaluated whether or not it was easy for the user to complete tasks, use the proposed feature, and follow the intended interaction flow.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1087" allowfullscreen></iframe>
 

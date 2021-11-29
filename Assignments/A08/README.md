@@ -157,8 +157,8 @@ In addition to the cognitive walkthroughs, I conducted more thorough usability t
 Overall, the usability tests went very smoothly and the testers’ overall reactions post-test were positive. They appreciated the straightforward interaction flow and minimalistic design. Most, if not all, tasks took shorter than expected and both testers associated the website with the adjectives “professional”, “familiar”, “calm”, and “trustworthy”.
 
 Nonetheless, the usability tests reaffirmed some of the problems that were noticed during the cognitive walkthrough. The overall lack of backflow and some minor button inconsistencies confused my testers. Aside from the aforementioned issues, there were some other issues that were brought up:
-
-The text is slightly hard to read––since there’s a lot of reading to do, especially in the “Process” section, the small font size is a little hard to read. The appointment-booking screen is confusing––the tester thought that they were asked twice about what type of appointment they wanted to make––once at the beginning (before selecting the date) and once when filling out their personal information. Technically, the second question asks the user what class vehicle (moped, motorcycle, passenger vehicle) they want to apply for, but the question was phrased ambiguously, leading to confusion.
+1. The text is slightly hard to read––since there’s a lot of reading to do, especially in the “Process” section, the small font size is a little hard to read. 
+2. The appointment-booking screen is confusing––the tester thought that they were asked twice about what type of appointment they wanted to make––once at the beginning (before selecting the date) and once when filling out their personal information.
 
  
 ## Pitch video 

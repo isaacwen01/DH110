@@ -63,14 +63,14 @@ Throughout my research, I created two personas––Mia, the aspiring driver app
 
 After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information hierarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
 
-Wireframes:
+### Wireframes:
 ![Wireframe 1](DHI10_Wireframe.png) 
 ![Wireframe 2](DHI10_Wireframe_2.png) 
 
 
 From there, I began working on revising the interface design of the website. Good interface design categorizes the website’s current information into more digestible chunks that will give the user a high-level overview of the process. It also hides less relevant information and visually guides the user to follow a certain path that will allow them to easily apply for/renew a permit or license. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color.
 
-Design Variations:
+### Design Variations:
 
 ![Design Variations](Variations.png) 
 

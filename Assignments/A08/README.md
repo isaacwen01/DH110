@@ -90,6 +90,15 @@ Below is the low-fidelity prototype I made:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D31%253A422" allowfullscreen></iframe>
 
+### Confusions and/or unexpected interactions
+Upon showing the lo-fi prototype to a test user and having him try to complete the three tasks, I noted down what he struggled with or found confusing. From there, I made the appropriate revisions in my hi-fi prototype.
+
+1. On the “Permit & License General Information” screen, the user was not sure what to press (the icon or text) to view the interactive timeline.
+2. On the interactive timeline, the user overlooked the “read more” button and was not able to make the connection between the timeline with the subsequent pages that contain more detail about each stage of the process.
+3.  While booking an appointment, the user was confused by the organization of information and the language used. 
+    - On the first page, the different appointments are sorted by “Driver’s License”, “State ID”, and “Motor Vehicle Registration.” The user thought “Driver’s License” referred to the road test and not a way of categorizing appointments. 
+    - After filling out his personal information, the user is presented with a screen with the title “Instruction Permit.” The user thought this was a mistake as he believed it brought him to a previous page; however, the “Instruction Permit” was simply the section of the appointment-scheduling form that asked for information about which type of instruction permit he is applying for.
+
 [Read more about the lo-fi prototype and testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A05)
 
 

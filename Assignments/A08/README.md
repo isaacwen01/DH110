@@ -1,4 +1,4 @@
-# Accessiblity of Hawaiian Government Websites
+#  Drive Easy: Improving the Efficiency and Accessibility of the County of Hawai'i's website for the Vehicle Registration & Licensing Department
 
 ## Assignment 08: Pitch
 Isaac Wen | DH 110 | Fall 2021

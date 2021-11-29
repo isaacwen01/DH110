@@ -22,7 +22,7 @@ The top 3 issues were the following:
 | Aesthetic and Minimalist Design | The lack of paragraph breaks throughout the information-dense pages makes finding certain requirements/documents difficult. | 
 | Help and Documentation | The FAQ section for the Department of Vehicle Registration & Licensing is obscured and not discoverable through the search function. | 
 
-![Current Website](https://github.com/isaacwen01/DH110/blob/main/HawaiiDMVWebsite.png)
+![Current Website](HawaiiDMVWebsite.png)
 
 
 ## User research:

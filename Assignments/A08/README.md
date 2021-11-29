@@ -16,11 +16,11 @@ I conducted a heuristic evaluation on the County of Hawai'i’s website (along w
 
 The top 3 issues were the following:
 
-| Heuristic | Usability Problem | Task Scenario |
-|---|---|---|
-| Help Users Recognize, Diagnose, and Recover from Errors | When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. | Find the earliest date for a road test appointment. |
-| Aesthetic and Minimalist Design | The lack of paragraph breaks throughout the information-dense pages makes finding certain requirements/documents difficult. | Identify the documents and procedures necessary to renew a license. |
-| Help and Documentation | The FAQ section for the Department of Vehicle Registration & Licensing is obscured and not discoverable through the search function. | Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit. |
+| Heuristic | Usability Problem |
+|---|---|
+| Help Users Recognize, Diagnose, and Recover from Errors | When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. |
+| Aesthetic and Minimalist Design | The lack of paragraph breaks throughout the information-dense pages makes finding certain requirements/documents difficult. | 
+| Help and Documentation | The FAQ section for the Department of Vehicle Registration & Licensing is obscured and not discoverable through the search function. | 
 
 ![Current Website](https://github.com/isaacwen01/DH110/blob/main/HawaiiDMVWebsite.png)
 

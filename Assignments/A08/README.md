@@ -91,7 +91,7 @@ Below is the low-fidelity prototype I made:
 [Read more about the lo-fi prototype and testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A05)
 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype
 
 After completing and testing the lo-fi prototype, I proceeded to create a high-fidelity, interactive prototype on Figma. The purpose of this interactive prototype was to test both the interface and functionality of the redesigned County of Hawai’i website. It evaluated whether or not it was easy for the user to complete tasks, use the proposed feature, and follow the intended interaction flow.
 

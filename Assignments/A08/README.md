@@ -73,7 +73,7 @@ Design Variations:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-
+[Read more about the interface design...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A06)
 
 ## Low-fidelity prototype
 
@@ -88,6 +88,7 @@ Below is the low-fidelity prototype I made:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D31%253A422" allowfullscreen></iframe>
 
+[Read more about the lo-fi prototype and testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A05)
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
@@ -98,6 +99,7 @@ I went through several different iterations of hi-fi prototyping. The prototype 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
+[Read more about the hi-fi prototype and testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A07)
 
 
 ## Evaluation and revision history 

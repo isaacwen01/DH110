@@ -64,14 +64,13 @@ Throughout my research, I created two personas––Mia, the aspiring driver app
 
 ## Wireframe and graphic design element variation
 
-After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information heiarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
+After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information hierarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
 
 Wireframes:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D213%253A15634" allowfullscreen></iframe>
 
-
-From there, I began workin on revising the interface design of the website. Good interface design categorizes the website’s current information into more digestible chunks that will give the user a high-level overview of the process. It also hides less relevant information and visually guides the user to follow a certain path that will allow them to easily apply for/renew a permit or license. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color.
+From there, I began working on revising the interface design of the website. Good interface design categorizes the website’s current information into more digestible chunks that will give the user a high-level overview of the process. It also hides less relevant information and visually guides the user to follow a certain path that will allow them to easily apply for/renew a permit or license. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color.
 
 Design Variations:
 
@@ -98,7 +97,7 @@ Below is the low-fidelity prototype I made:
 
 After completing and testing the lo-fi prototype, I proceeded to create a high-fidelity, interactive prototype on Figma. The purpose of this interactive prototype was to test both the interface and functionality of the redesigned County of Hawai’i website. It evaluated whether or not it was easy for the user to complete tasks, use the proposed feature, and follow the intended interaction flow.
 
-I went through several different iterations of hi-fi prototyping. The protoype embedded below is my final prototype, and the revision history will be included in the next section.
+I went through several different iterations of hi-fi prototyping. The prototype embedded below is my final prototype, and the revision history will be included in the next section.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
@@ -109,7 +108,7 @@ I went through several different iterations of hi-fi prototyping. The protoype e
 During the high-fidelity phase of the project, I made several changes to my design based on the feedback I received from my various test users. I conducted an impression test, cognitive walkthrough, and several usability tests to pinpoint the flaws of my design and make changes accordingly.
 
 ### Impression Test
-For this round of testing, I gave the user 5 seconds to look at the first screen and asked him his general impression of the site as well as what he thought the function of the site was. Then, I showed him the screen variations and asked him to compare it to the first screen, pointing out things he liked or disliked about each variation.
+For this round of testing, I gave the user 5 seconds to look at the first screen and asked him his general impression of the site as well as what he thought the function of the site was. Then, I showed him the screen variations and asked him to compare them to the first screen, pointing out things he liked or disliked about each variation.
 
 [>> Impression Test Video](https://drive.google.com/file/d/1COGA-PxMYzvWXI-rnx4LyJaLv1ZeNWFl/view?usp=sharing)
 
@@ -128,7 +127,7 @@ information-heavy sites. He also pointed out that the color scheme for light mod
 
 ### Cognitive Walkthrough
 
-After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype and questions that accessed the efficiency of my prototype. 
+After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype and questions that accessed the efficiency of my prototype.
 
 [>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
 

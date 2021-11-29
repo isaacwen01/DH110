@@ -5,13 +5,14 @@ Isaac Wen | DH 110 | Fall 2021
 
 
 ## Introduction: 
-This project aims to redesign the current website for the Vehicle Registration & Licensing (VRL) deparment of the County of Hawai'i to enhance its efficiency and improve its accessibility. The Vehicle Registration & Licensing Department has a notorious reputation of being highly ineffective and a hassle to work with, resulting in many people having rather negative experiences while applying for permits or licenses, attempting to renew licenses, registering vehicles, and more. Through this project, I hope to expedite the various processess of the VRL, make it easier for first time applicants to learn about licensing procedures, and introduce accessible features that assist thsoe who are not as technologically literate.
+This project aims to redesign the current website for the Vehicle Registration & Licensing (VRL) Department of the County of Hawai'i to enhance its efficiency and accessibility. The Vehicle Registration & Licensing Department has a notorious reputation of being highly ineffective and a hassle to work with, resulting in many people having rather negative experiences while applying for permits or licenses, attempting to renew licenses, registering vehicles, and more. Through this project, I hope to expedite the various processes of the VRL, make it easier for first-time applicants to learn about licensing procedures, and introduce accessible features that assist those who are not as technologically literate.
+
 
 ## Design statement: 
 People find it difficult and confusing to navigate the current website for the Vehicle Registration & Licensing (VRL) department of the County of Hawai'i, preventing them from learning about the processes involved in VRL-related activities and making appointments accordingly.
 
 ## Competitor analysis:
-I conducted a heuristic evaluation on the County of Hawai'i website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when using the site. By evaluating the issues I notice against the ten heuristics, I more accurately pinpointed the exact problems that were plaguing the website and began proposing potential changes that would help improve the overall user experience. [Read more about the heuristic evaluation...](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
+I conducted a heuristic evaluation on the County of Hawai'i’s website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when navigating the site. By evaluating the issues I notice against the ten heuristics, I could more accurately pinpoint the exact problems that plagued the website and begin proposing potential changes that would help improve the overall user experience. [Read more about the heuristic evaluation...](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
 
 The top 3 issues were the following:
 
@@ -27,17 +28,17 @@ The top 3 issues were the following:
 ## User research:
 
 ### Usability Testing
-After conducting the initial heuristic evaluation, I decided that I needed to conduct a usability test (UT) so I could better evaluate the current website using the three metrics of effectiveness, efficiency, and satisfaction. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allowed me to better empathize with typical users of the site––a first-time permit applicant who is unfamiliar with a lot of the jargon used on the site or an elderly who might not be techinologically literate. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of design. 
+After conducting the initial heuristic evaluation, I decided that I needed to conduct a usability test (UT) so I could better evaluate the current website using the three metrics of effectiveness, efficiency, and satisfaction. By giving participants tasks and observing their behavior and thoughts as they work through them, UT allowed me to better empathize with typical users of the site––a first-time permit applicant who is unfamiliar with a lot of the jargon used on the site or an elderly who might not be technologically literate. Frustrations of the user are highlighted and are used to point out areas of improvement for the next iteration of the design.
 
 I asked my participant to perform three tasks that corresponded to the top three heuristics violated:
 1. Find the earliest date for a road test appointment.
 2. Identify the documents and procedures necessary to renew a license.
 3. Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit.
 
-In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, the test user was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated. [Read more about usability testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
+In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, he was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated. [Read more about usability testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
 
 ### Contextual Inquiry
-Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. Like its name suggests, this process aims to give me, the researcher, more context about a typical user by allowing the participant talk about their motives behind using the VRL website, their hesitations, struggles, and what they like/dislike about the site.
+Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. As its name suggests, this process aims to give me, the researcher, more context about a typical user by allowing the participant to talk about their motives behind using the VRL website, their hesitations, struggles, and what they like/dislike about the site.
 
 My biggest takeaways from the contextual inquiry were the following:
 1. The availability of DMV appointments affects people’s desire to apply for a permit/license.
@@ -50,7 +51,7 @@ My biggest takeaways from the contextual inquiry were the following:
 ## UX storytelling 
 UX storytelling is the key to empathizing and understanding the user. Storytelling essentially places the designer in the user’s shoes, allowing them to imagine problems the user faces and visualize how the user may respond to them. This allows them to design product features that more directly resolve the pain points of the user. Most importantly, UX storytelling helps the designer get rid of any biases they might have had and design in a human-centered manner.
 
-Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website, and more importantly, identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site. [Read more about the personas...](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
+Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website. More importantly, I identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site. [Read more about the personas...](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
 
 <img src="/DH110/blob/main/Assignments/A08/Mia%20Persona.png" alt="Mia">
 <img src="/DH110/blob/main/Assignments/A08/Frida%20Persona.png" alt="Frida">

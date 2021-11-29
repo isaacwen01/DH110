@@ -56,13 +56,7 @@ Throughout my research, I created two personas––Mia, the aspiring driver app
 
 ![Mia Persona](Miapersona.png) 
 
-<img src="/DH110/blob/main/Assignments/A08/Mia%20Persona.png" alt="Mia">
-<img src="/DH110/blob/main/Assignments/A08/Frida%20Persona.png" alt="Frida">
-
-<img src="/Frida Persona.png" alt="Frida"> 
-<img width="1440" alt="Mia" src="https://github.com/isaacwen01/DH110/blob/main/Assignments/A08/Frida%20Persona.png"> 
-
-<img src="/DH150--Fitness-for-All/running.jpg" alt="people running">
+![Frida Persona](Fridapersona.png) 
 
 
 ## Wireframe and graphic design element variation

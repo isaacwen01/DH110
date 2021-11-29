@@ -120,7 +120,7 @@ During the high-fidelity phase of the project, I made several changes to my desi
 ### Impression Test
 For this round of testing, I gave the user 5 seconds to look at the first screen and asked him his general impression of the site as well as what he thought the function of the site was. Then, I showed him the screen variations and asked him to compare them to the first screen, pointing out things he liked or disliked about each variation.
 
-[>> Impression Test Video](https://drive.google.com/file/d/1COGA-PxMYzvWXI-rnx4LyJaLv1ZeNWFl/view?usp=sharing)
+[Watch Impression Test Video](https://drive.google.com/file/d/1COGA-PxMYzvWXI-rnx4LyJaLv1ZeNWFl/view?usp=sharing)
 
 1. Overall Impression: The user could immediately identify what the purpose of the website was. He could also immediately tell that it was a government-related 
 website based on the interface design.
@@ -139,7 +139,7 @@ information-heavy sites. He also pointed out that the color scheme for light mod
 
 After making my first hi-fi prototype, I conducted cognitive walkthroughs with two classmates, where they were asked to perform a series of tasks with the prototype and questions that accessed the efficiency of my prototype.
 
-[>> Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+[View Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
 
 Overall, my two testers were able to easily follow the intended interaction flow, easily completing the 3 proposed tasks. They appreciated the minimalist and straightforward interface design and thought most pages and buttons were clearly labeled. However, they did point out some areas of improvement:
 1. On the “Permit & License Information” page, the tester indicated that she did not know what to click––the icon or the text. She assumed that the text would be clickable as well, not just the icon.
@@ -150,9 +150,9 @@ Overall, my two testers were able to easily follow the intended interaction flow
 
 In addition to the cognitive walkthroughs, I conducted more thorough usability tests to further pinpoint the most pressing issues with my first prototype.
 
-[>> UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
+[Watch UT Video 1](https://drive.google.com/file/d/1Yd5SM7ljVbs4LsvQaUd9k8Y4E6J-q2FV/view?usp=sharing)
 
-[>> UT Video 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
+[Watch UT Video 2](https://drive.google.com/file/d/14fCDqkEHyfmko2HS9EKUh2M1nBCFlGBB/view?usp=sharing)
 
 Overall, the usability tests went very smoothly and the testers’ overall reactions post-test were positive. They appreciated the straightforward interaction flow and minimalistic design. Most, if not all, tasks took shorter than expected and both testers associated the website with the adjectives “professional”, “familiar”, “calm”, and “trustworthy”.
 

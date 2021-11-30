@@ -67,7 +67,7 @@ Throughout my research, I created two personas––Mia, the aspiring driver app
 
 ### Wireframes:
 
-After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information hierarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
+After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information hierarchy of the website, not so much the aesthetics. This could be seen as a rough draft of what the final product could potentially become.
 
 <img width="450" alt="Wireframe 1" src="DHI10_Wireframe.png"> 
 <img width="450" alt="Wireframe 2" src="DHI10_Wireframe_2.png">

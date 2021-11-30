@@ -166,6 +166,8 @@ Nonetheless, the usability tests reaffirmed some of the problems that were notic
  
 ## Pitch video 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yFrdHmh1IOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Conclusion
 
 This project was the first time I followed the design process completely and was without a doubt a very meaningful learning experience. 
@@ -175,3 +177,7 @@ My greatest takeaway from this 10-week project was the importance of testing in 
 Through the many iterations of testing, I began to understand the value in “failing quickly”. This was a term we discussed in class, but I never really thought about it until I noticed how easy it was to make revisions to my design after conducting tests. Each round of testing helped me identify new problems that I should fix. 
 
 While working on this project, I also experienced how different the designer and user of a product can be. For instance, being a driver myself, I found that I could navigate the original VRL website fairly easily because I was familiar with a lot of the terminology used on the site, despite the vast amount of text on each page. However, when I conducted my usability tests with users who do not drive, they struggled significantly more because the jargon used on the website sounded foreign and even intimidated me. Conducting UT and the contextual inquiry reminded me of the importance of empathizing with the user.
+
+If I were to change anything about my project, I would conduct more usability tests and contextual inquiries to better understand my target audience. Specifically, I would have loved to test users that match the "Frida" persona, individuals who are older and not as technologically literate.
+
+Nonetheless, I really enjoyed this class, as it sparked a passion for UX research in me. I enjoyed the 10 week time constraint as it forced me to work quickly and simulated the pace of a working environment. Overall, I am proud of the progress I made on my project and cannot wait for future UI/UX projects to come!

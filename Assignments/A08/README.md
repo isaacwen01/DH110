@@ -92,7 +92,7 @@ The three tasks supported by this prototype were the following:
 3. Access visual & audio guide (License Renewal)
 
 ### Confusions and/or unexpected interactions
-Upon showing the lo-fi prototype to a test user and having him try to complete the three tasks, I noted down what he struggled with or found confusing. From there, I made the appropriate revisions in my hi-fi prototype.
+Upon showing the lo-fi prototype to a test user and having him try to complete the three tasks, I noted down what he struggled with or found confusing. From there, I made the appropriate revisions to my hi-fi prototype.
 
 1. On the “Permit & License General Information” screen, the user was not sure what to press (the icon or text) to view the interactive timeline.
 2. On the interactive timeline, the user overlooked the “read more” button and was not able to make the connection between the timeline with the subsequent pages that contain more detail about each stage of the process.

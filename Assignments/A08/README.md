@@ -75,7 +75,7 @@ After finalizing my personas, I began to create wireframes that represented the 
 
 ### Design Variations:
 
-From there, I began working on revising the interface design of the website. Good interface design categorizes the website’s current information into more digestible chunks that will give the user a high-level overview of the process. It also hides less relevant information and visually guides the user to follow a certain path that will allow them to easily apply for/renew a permit or license. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color.
+From there, I began working on revising the interface design of the website. I focused on categorizing the website’s current information into more digestible chunks that would give the user a high-level overview of the process. I also hid less relevant information and incorporated visual cues to guide the user to follow a certain path. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color. All designs passed the contrast test for accessibility.
 
 [Read more about the interface design...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A06)
 

@@ -12,7 +12,7 @@ This project aims to redesign the current website for the Vehicle Registration &
 People find it difficult and confusing to navigate the current website for the Vehicle Registration & Licensing (VRL) department of the County of Hawai'i, preventing them from learning about the processes involved in VRL-related activities and making appointments accordingly.
 
 ## Competitor analysis:
-I conducted a heuristic evaluation on the County of Hawai'i’s website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when navigating the site. By evaluating the issues I notice against the ten heuristics, I could more accurately pinpoint the exact problems that plagued the website and begin proposing potential changes that would help improve the overall user experience. [Read more about the heuristic evaluation...](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
+I conducted a heuristic evaluation on the County of Hawai'i’s website (along with the Hawaii State Department of Health) to identify the most pressing obstacles users currently face when navigating the site. By evaluating the issues I notice against the ten heuristics, I could more accurately pinpoint the exact problems that plagued the website and begin proposing potential changes that would help improve the overall user experience. 
 
 The top 3 issues were the following:
 
@@ -22,7 +22,9 @@ The top 3 issues were the following:
 | Aesthetic and Minimalist Design | The lack of paragraph breaks throughout the information-dense pages makes finding certain requirements/documents difficult. | 
 | Help and Documentation | The FAQ section for the Department of Vehicle Registration & Licensing is obscured and not discoverable through the search function. | 
 
-![Current Website](HawaiiDMVWebsite.png)
+[Read more about the heuristic evaluation...](https://github.com/isaacwen01/DH110/blob/main/Assignments/Assignment1.md)
+
+<img width="700" alt="HawaiiVRL" src="HawaiiDMVWebsite.png"> <img width="200" alt="HawaiiVRLmobile" src="HawaiiVRLmobile.PNG">
 
 
 ## User research:
@@ -35,7 +37,9 @@ I asked my participant to perform three tasks that corresponded to the top three
 2. Identify the documents and procedures necessary to renew a license.
 3. Find the FAQ section and check if a fax copy of an insurance card will suffice for a VRL office visit.
 
-In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, he was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated. [Read more about usability testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
+In regards to the County of Hawai’i website, the participant reaffirmed the usability problems I initially noticed through the heuristic evaluation. Overall, the test user was overwhelmed by the vast amount of information and had trouble finding buttons and reaching pages because there was too much text to sift through. For instance, he was not able to complete the first task, as all the dates and locations he checked for a road test appointment were fully booked. There was no system that suggested the next available date for the user. On the other hand, for the second and third tasks, the participant was able to complete them, though they took a longer time than I had anticipated. 
+
+[Read more about usability testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A02)
 
 ### Contextual Inquiry
 Contextual inquiry differs from UT in that the instructions given to the test user are less specific and are meant to see how they would interact with the product in a natural setting. As its name suggests, this process aims to give me, the researcher, more context about a typical user by allowing the participant to talk about their motives behind using the VRL website, their hesitations, struggles, and what they like/dislike about the site.
@@ -51,12 +55,12 @@ My biggest takeaways from the contextual inquiry were the following:
 ## UX storytelling 
 UX storytelling is the key to empathizing and understanding the user. Storytelling essentially places the designer in the user’s shoes, allowing them to imagine problems the user faces and visualize how the user may respond to them. This allows them to design product features that more directly resolve the pain points of the user. Most importantly, UX storytelling helps the designer get rid of any biases they might have had and design in a human-centered manner.
 
-Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website. More importantly, I identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site. [Read more about the personas...](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
+Throughout my research, I created two personas––Mia, the aspiring driver applying for a permit for the first time, and Frida, the retired grandmother hoping to renew her license. For each persona, I gave them a story to make them feel like plausible users of the website. More importantly, I identified their needs, pain points, and goals. I also created empathy maps to gauge how each user would feel as they worked through the site. 
+
+[Read more about the personas...](https://raw.githubusercontent.com/isaacwen01/DH110/main/Assignments/A04/README.md)
 
 
-![Mia Persona](Miapersona.png) 
-
-![Frida Persona](Fridapersona.png) 
+<img width="450" alt="Mia Persona" src="Miapersona.png"> <img width="450" alt="Frida Persona" src="Fridapersona.png">
 
 
 ## Wireframe and graphic design element variation
@@ -65,16 +69,17 @@ Throughout my research, I created two personas––Mia, the aspiring driver app
 
 After finalizing my personas, I began to create wireframes that represented the key screens of my website redesign. These were drawn by hand on pro-create and focused on the layout and information hierarchy of the website, not so much the aesthetics. This could be seen as a "rough draft" of what the final product could potentially become.
 
-![Wireframe 1](DHI10_Wireframe.png) 
-![Wireframe 2](DHI10_Wireframe_2.png) 
+<img width="450" alt="Wireframe 1" src="DHI10_Wireframe.png"> 
+<img width="450" alt="Wireframe 2" src="DHI10_Wireframe_2.png">
+
 
 ### Design Variations:
 
 From there, I began working on revising the interface design of the website. Good interface design categorizes the website’s current information into more digestible chunks that will give the user a high-level overview of the process. It also hides less relevant information and visually guides the user to follow a certain path that will allow them to easily apply for/renew a permit or license. Before deciding on a final design, I made several variations on typography, shape (specifically the roundness of buttons/elements), and color.
 
-![Design Variations](Variations.png) 
-
 [Read more about the interface design...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A06)
+
+![Design Variations](Variations.png) 
 
 
 ## Low-fidelity prototype
@@ -85,10 +90,6 @@ The three tasks supported by this prototype were the following:
 1. Use the Interactive Timeline
 2. Make an appointment (Instruction Permit)
 3. Access visual & audio guide (License Renewal)
-
-Below is the low-fidelity prototype I made:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D31%253A422" allowfullscreen></iframe>
 
 ### Confusions and/or unexpected interactions
 Upon showing the lo-fi prototype to a test user and having him try to complete the three tasks, I noted down what he struggled with or found confusing. From there, I made the appropriate revisions in my hi-fi prototype.
@@ -101,6 +102,8 @@ Upon showing the lo-fi prototype to a test user and having him try to complete t
 
 [Read more about the lo-fi prototype and testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A05)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D31%253A422" allowfullscreen></iframe>
+
 
 ## High-fidelity prototype
 
@@ -108,9 +111,10 @@ After completing and testing the lo-fi prototype, I proceeded to create a high-f
 
 I went through several different iterations of hi-fi prototyping. The prototype embedded below is my final prototype, and the revision history will be included in the next section.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110%26show-proto-sidebar%3D1" allowfullscreen></iframe>
-
 [Read more about the hi-fi prototype and testing...](https://github.com/isaacwen01/DH110/tree/main/Assignments/A07)
+
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FFiP5xIDKEKWrtnXJAAugWU%2FDH-110-Project%3Fnode-id%3D179%253A1110%26scaling%3Dscale-down%26page-id%3D179%253A1087%26starting-point-node-id%3D179%253A1110%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 
 ## Evaluation and revision history 

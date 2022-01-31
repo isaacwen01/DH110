@@ -16,7 +16,7 @@ I conducted a heuristic evaluation on the County of Hawai'i’s website (along w
 
 The top 3 issues were the following:
 
-| Heuristic | Usability Problem |
+| Heuristic Violated | Usability Problem |
 |---|---|
 | Help Users Recognize, Diagnose, and Recover from Errors | When choosing a date for a Road Test Appointment, the user is not notified when the next available date and time is. |
 | Aesthetic and Minimalist Design | The lack of paragraph breaks throughout the information-dense pages makes finding certain requirements/documents difficult. | 
